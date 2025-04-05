@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23daa959-eee2-4239-82b6-ab7d25ad128a)# free-nodes
+# free-nodes
 每日更新，2025年免费公益 V2ray/Trojan/SS/Hysteria2 节点订阅 | 科学上网
 
 ## 1. **[稳联云](https://v2raya.net/goto/stablenet2)**
