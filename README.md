@@ -1,4 +1,4 @@
-# free-nodes
+![image](https://github.com/user-attachments/assets/23daa959-eee2-4239-82b6-ab7d25ad128a)# free-nodes
 每日更新，2025年免费公益 V2ray/Trojan/SS/Hysteria2 节点订阅 | 科学上网
 
 ## 1. **[稳联云](https://v2raya.net/goto/stablenet2)**
@@ -32,7 +32,7 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025年03月16日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025年04月06日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -41,17 +41,18 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 
 https://my.stableproxy.top/api/v1/client/subscribe?token=4860cdb3872abb644a4f457ad03998ee
 https://my.stableproxy.top/api/v1/client/subscribe?token=6bdade54854bc91f04266ebc6a9ea5e7
-https://my.stableproxy.top/api/v1/client/subscribe?token=bc7857fa92a898fc3ebc9a90f2ac9748
-https://my.stableproxy.top/api/v1/client/subscribe?token=50e66d962915bb92d404907169991820
-https://my.stableproxy.top/api/v1/client/subscribe?token=1229089d061230b255ad0519b306a221
-https://my.stableproxy.top/api/v1/client/subscribe?token=c920c3ada03bcc4bdb1d68920de9037b
-https://my.stableproxy.top/api/v1/client/subscribe?token=1ddb616736850161ee51dad38e4b7baf
-https://my.stableproxy.top/api/v1/client/subscribe?token=242789533b3c90c09388108001693e52
-https://my.stableproxy.top/api/v1/client/subscribe?token=e28b6c87b88609bbdc0765e9c6eba924
-https://my.stableproxy.top/api/v1/client/subscribe?token=8850988d326dfe87761f4f052cb783bf
-https://my.stableproxy.top/api/v1/client/subscribe?token=ce275e6f9bb70bbd5331715f50d76adb
-https://my.stableproxy.top/api/v1/client/subscribe?token=fa9eb285d550b91ecb2bc537432eeee1
-https://my.stableproxy.top/api/v1/client/subscribe?token=7a59dcfb5d05610d68de9dbd3c6b883f
+https://my.stableproxy.top/api/v1/client/subscribe?token=4212fd03e10353bf6cbfb9546007b829
+https://my.stableproxy.top/api/v1/client/subscribe?token=6aee501ffb2294cc65da1459f5d0f0f5
+https://my.stableproxy.top/api/v1/client/subscribe?token=02858c7b3d49bf67340eab0ab2540f22
+https://my.stableproxy.top/api/v1/client/subscribe?token=f2064988fa355497cac393758841dfce
+https://my.stableproxy.top/api/v1/client/subscribe?token=bc9509a1d525b156bc8ca4eece6b4a8c
+https://my.stableproxy.top/api/v1/client/subscribe?token=a9d9776e457e4564fd0d41c65ebe8344
+https://my.stableproxy.top/api/v1/client/subscribe?token=0cd1843495bab00aa89268b3399098ee
+https://my.stableproxy.top/api/v1/client/subscribe?token=bc66a46f5bd14742c0ffdc3d8c42f89c
+https://my.stableproxy.top/api/v1/client/subscribe?token=c1b33e1442d8c53364e5545ebf697299
+https://my.stableproxy.top/api/v1/client/subscribe?token=476cb59a9ec6e86efb97e8367d919ff0
+https://my.stableproxy.top/api/v1/client/subscribe?token=e2f32deff1369e31fce25931a07f9dfc
+
 
 ```
 
@@ -64,4 +65,4 @@ https://my.stableproxy.top/api/v1/client/subscribe?token=7a59dcfb5d05610d68de9db
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025年03月16日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025年04月06日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
