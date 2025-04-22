@@ -32,26 +32,26 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025年04月21日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025年04月22日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://my.stablenet.top/api/v1/client/subscribe?token=99fa95f7ac11388a95edd2ed0c405b7d
-https://my.stablenet.top/api/v1/client/subscribe?token=5e298ccfc7eaf0923ba044fc87a89136
-https://my.stablenet.top/api/v1/client/subscribe?token=07e93523210bce13a94d1c18a657dbfa
-https://my.stablenet.top/api/v1/client/subscribe?token=6aee501ffb2294cc65da1459f5d0f0f5
-https://my.stablenet.top/api/v1/client/subscribe?token=02858c7b3d49bf67340eab0ab2540f22
-https://my.stablenet.top/api/v1/client/subscribe?token=6767b763469a5e7a3e7af1101c1e39d9
-https://my.stablenet.top/api/v1/client/subscribe?token=ca9cac5b0dcf97256e5c4256630405f4
-https://my.stablenet.top/api/v1/client/subscribe?token=4031df45d105271e5c1429ca94a71885
-https://my.stablenet.top/api/v1/client/subscribe?token=0cd1843495bab00aa89268b3399098ee
-https://my.stablenet.top/api/v1/client/subscribe?token=bc66a46f5bd14742c0ffdc3d8c42f89c
-https://my.stablenet.top/api/v1/client/subscribe?token=05dd922b0adea71f5f4ecde6bd5c5026
-https://my.stablenet.top/api/v1/client/subscribe?token=476cb59a9ec6e86efb97e8367d919ff0
-https://my.stablenet.top/api/v1/client/subscribe?token=d05f58d5272a2112bf729b428997e409
+https://my.stablenet.top/api/v1/client/subscribe?token=83273876748932943c38223701398c1b
+https://my.stablenet.top/api/v1/client/subscribe?token=01c131ec7b79cd6f09ed95e9e8cdcd62
+https://my.stablenet.top/api/v1/client/subscribe?token=23ae29e4ede180c4a6a7f47d9f0a82d6
+https://my.stablenet.top/api/v1/client/subscribe?token=4bc8f1bef46418d65ccecc6e0822e58d
+https://my.stablenet.top/api/v1/client/subscribe?token=99aabbf9432e97470fc8ed7a866b55c4
+https://my.stablenet.top/api/v1/client/subscribe?token=c85bff61b02a0cffa411c5533bfc61ea
+https://my.stablenet.top/api/v1/client/subscribe?token=851673707729f7e59ad4b9e49dc6dcf6
+https://my.stablenet.top/api/v1/client/subscribe?token=fcdae83c6fa94654a901aec72fccd2d2
+https://my.stablenet.top/api/v1/client/subscribe?token=964a8ee975db7b3e0346a4b773f1aa39
+https://my.stablenet.top/api/v1/client/subscribe?token=da306d969cba0624ae1049fad5c960fb
+https://my.stablenet.top/api/v1/client/subscribe?token=7ff543b8d783d424fd1c87e70a402813
+https://my.stablenet.top/api/v1/client/subscribe?token=554c72acc46906f2d59da572fdca9346
+https://my.stablenet.top/api/v1/client/subscribe?token=bd283528fbaec8e9781245174e568269
 
 ```
 
@@ -64,4 +64,4 @@ https://my.stablenet.top/api/v1/client/subscribe?token=d05f58d5272a2112bf729b428
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025年04月21日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025年04月22日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
