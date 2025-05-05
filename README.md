@@ -39,20 +39,19 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=d8404023cc2e8af24dcae855a3d9f753
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=df802a0b2248357cc00fa51e5e2a6ed8
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=694baf6a37ea1483f6f0d67ad1bfbac8
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=c0b903d5a1e425d1eb50502e0538497c
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=c5b20765bf5831514fd156199a7ac370
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=36ecb01a4cf9b6555ecd5f14edc9ee27
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=0dd8fd7a82499ec83f1f6208d9a0ec38
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=af996ebc0de4baa568b6bb7c70422533
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=2880b0c5ae450598ae7657161e3bf77f
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=7a1661f60c1e8069567bad8072c67f5f
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=9dd6d2b9538572626baf705adc785a20
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=c6053a03b0ffcc3acf14c993865dcb68
-https://my.airplanehub.xyz/api/v1/client/subscribe?token=fe1d786fe26bdd66156cb0424dfcfe6e
-
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=98034da6861c4547d08b3af86cceacf9
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=4af50f85fdd416759b4c524be8d4548b
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=f9e4b516e5b8ba26826c28c0f3a947f0
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=5868c63fba9759f89c5ae0f4016f053b
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=0df94d11b6461c4ae4991bf8a92d8ce3
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=a6f87a2e7d79d8a58a22aa6ecfdcbe3e
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=3b7c81a6a751955d4775b20532a90c2a
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=e63c4d8b56d1b245a81b812eb226dfa8
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=e80957c7b90c6ef0b6e5f032f3a67c6a
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=39ff71bff2cb54eac6ec4f3c9c8c324e
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=5a15ae2208918d5bd1e251bd7fcadc5d
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=c38496b0524f647af96dcdf1b148342f
+https://my.airplanehub.xyz/api/v1/client/subscribe?token=ab6571f332c34469b42ba1b9aaf5b3d4
 
 ```
 
