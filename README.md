@@ -39,19 +39,19 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=98034da6861c4547d08b3af86cceacf9
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=4af50f85fdd416759b4c524be8d4548b
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=f9e4b516e5b8ba26826c28c0f3a947f0
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=5868c63fba9759f89c5ae0f4016f053b
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=0df94d11b6461c4ae4991bf8a92d8ce3
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=a6f87a2e7d79d8a58a22aa6ecfdcbe3e
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=3b7c81a6a751955d4775b20532a90c2a
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=e63c4d8b56d1b245a81b812eb226dfa8
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=e80957c7b90c6ef0b6e5f032f3a67c6a
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=39ff71bff2cb54eac6ec4f3c9c8c324e
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=5a15ae2208918d5bd1e251bd7fcadc5d
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=c38496b0524f647af96dcdf1b148342f
-http://serv002.airplanehub.xyz/api/v1/client/subscribe?token=ab6571f332c34469b42ba1b9aaf5b3d4
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=98034da6861c4547d08b3af86cceacf9
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=4af50f85fdd416759b4c524be8d4548b
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=f9e4b516e5b8ba26826c28c0f3a947f0
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=5868c63fba9759f89c5ae0f4016f053b
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=0df94d11b6461c4ae4991bf8a92d8ce3
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=a6f87a2e7d79d8a58a22aa6ecfdcbe3e
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=3b7c81a6a751955d4775b20532a90c2a
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=e63c4d8b56d1b245a81b812eb226dfa8
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=e80957c7b90c6ef0b6e5f032f3a67c6a
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=39ff71bff2cb54eac6ec4f3c9c8c324e
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=5a15ae2208918d5bd1e251bd7fcadc5d
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=c38496b0524f647af96dcdf1b148342f
+http://serv003.airplanehub.xyz/api/v1/client/subscribe?token=ab6571f332c34469b42ba1b9aaf5b3d4
 
 ```
 
