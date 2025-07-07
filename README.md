@@ -39,19 +39,19 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=989568043ce070db2a4102faebe1be9e
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=88e236e1ee842c158522c30b89c87775
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=274ceac77e1da7cd38be40fac846b147
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=a9aa29daf57ec2130a44b88661436fa3
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=89da417e60cf79c3c483cc6982a8e86d
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=97f60fc9f1e80512fd4534c1239ec2e8
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=4a0c99e0557834ae7301d7fdc22defa2
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=de4e2145c2d41d12fa43b3cecb7e5fd4
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=d138d2730636eaa5882690c324ff75c0
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=ea4dff992b4f00b7c40fcc5011d24b4f
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=3a3fa31e2662a2fa2021abaccfbc8af3
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=8ef949f5cc691992908c35fd76dd5311
-https://serv008.2344566.xyz/api/v1/client/subscribe?token=0df8be5df60ad0c8de3b6ad368bf3871
+https://serv009.12345789.top/api/v1/client/subscribe?token=989568043ce070db2a4102faebe1be9e
+https://serv009.12345789.top/api/v1/client/subscribe?token=88e236e1ee842c158522c30b89c87775
+https://serv009.12345789.top/api/v1/client/subscribe?token=274ceac77e1da7cd38be40fac846b147
+https://serv009.12345789.top/api/v1/client/subscribe?token=a9aa29daf57ec2130a44b88661436fa3
+https://serv009.12345789.top/api/v1/client/subscribe?token=89da417e60cf79c3c483cc6982a8e86d
+https://serv009.12345789.top/api/v1/client/subscribe?token=97f60fc9f1e80512fd4534c1239ec2e8
+https://serv009.12345789.top/api/v1/client/subscribe?token=4a0c99e0557834ae7301d7fdc22defa2
+https://serv009.12345789.top/api/v1/client/subscribe?token=de4e2145c2d41d12fa43b3cecb7e5fd4
+https://serv009.12345789.top/api/v1/client/subscribe?token=d138d2730636eaa5882690c324ff75c0
+https://serv009.12345789.top/api/v1/client/subscribe?token=ea4dff992b4f00b7c40fcc5011d24b4f
+https://serv009.12345789.top/api/v1/client/subscribe?token=3a3fa31e2662a2fa2021abaccfbc8af3
+https://serv009.12345789.top/api/v1/client/subscribe?token=8ef949f5cc691992908c35fd76dd5311
+https://serv009.12345789.top/api/v1/client/subscribe?token=0df8be5df60ad0c8de3b6ad368bf3871
 
 ```
 
