@@ -32,28 +32,26 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025年07月19日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025年07月25日的免费V2ray/Trojan节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-
-https://serv010.20250710.top/api/v1/client/subscribe?token=2f463a7d5d5e9516da37156aa0ce48d8
-https://serv010.20250710.top/api/v1/client/subscribe?token=6f064ed1a8f198814befdf9d97059d4b
-https://serv010.20250710.top/api/v1/client/subscribe?token=ac3979f0ed910d0d69ae6431df13f836
-https://serv010.20250710.top/api/v1/client/subscribe?token=4124b9dd49f6e3191569bc4a902971fe
-https://serv010.20250710.top/api/v1/client/subscribe?token=335baa8c7214bcb64d7836dbee1e05fe
-https://serv010.20250710.top/api/v1/client/subscribe?token=7716e4dd5cfe2a5d9a3a985d31d9d7d0
-https://serv010.20250710.top/api/v1/client/subscribe?token=128c4f970ffc9d1966263dff875afe4a
-https://serv010.20250710.top/api/v1/client/subscribe?token=2605508b57d805206eb16ee01af993e8
-https://serv010.20250710.top/api/v1/client/subscribe?token=9565e4be2f2b852554421770d21f4c93
-https://serv010.20250710.top/api/v1/client/subscribe?token=1397902d6a956ac17afd776c7cc113b2
-https://serv010.20250710.top/api/v1/client/subscribe?token=a52c0696ccb5d8b4ac4cdd1a19d26011
-https://serv010.20250710.top/api/v1/client/subscribe?token=6ba3645e9026c9e2e89e88c199caa731
-https://serv010.20250710.top/api/v1/client/subscribe?token=74dcbb750e622afac7c8a7324255782c
-
+https://serv011.20250710.top/api/v1/client/subscribe?token=24bfbf0be8f90d3ecd22b9104a9947c9
+https://serv011.20250710.top/api/v1/client/subscribe?token=9cb6370ecb946c7964147631df7a07a1
+https://serv011.20250710.top/api/v1/client/subscribe?token=9d2f271592d7c0b70fd47e36ef166bb3
+https://serv011.20250710.top/api/v1/client/subscribe?token=e87275442140b643805565a0117a8e7d
+https://serv011.20250710.top/api/v1/client/subscribe?token=5863fe98a6f091441748ab3df964a60e
+https://serv011.20250710.top/api/v1/client/subscribe?token=5f4599b07d2e13f3f5b50316d83c3ab0
+https://serv011.20250710.top/api/v1/client/subscribe?token=851d244594fc775e5fce7d45387d24d9
+https://serv011.20250710.top/api/v1/client/subscribe?token=2e149612a1ea47e325d9654df0af9f23
+https://serv011.20250710.top/api/v1/client/subscribe?token=25e068868d6a01f96bae7407600bad08
+https://serv011.20250710.top/api/v1/client/subscribe?token=6c6eb1677b92ac78156fbb0433f2043f
+https://serv011.20250710.top/api/v1/client/subscribe?token=ad3c9859b2c45149132b87f7841b84e6
+https://serv011.20250710.top/api/v1/client/subscribe?token=3b0a88327cc5ced242242c4fc84aa359
+https://serv011.20250710.top/api/v1/client/subscribe?token=6bc024c6510bd39467beb5af2784fcc0
 ```
 
 ## 3. 使用须知
@@ -65,4 +63,4 @@ https://serv010.20250710.top/api/v1/client/subscribe?token=74dcbb750e622afac7c8a
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025年07月19日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025年07月25日的V2ray/Trojan机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
