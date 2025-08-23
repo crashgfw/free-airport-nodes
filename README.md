@@ -39,18 +39,18 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=ccc434b635f9a43adf1f0e968e2c711d
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=ee34985f1143a54aa6eb41f209871759
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=5985255ea5e5205c7756be6b30f10ad3
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=555f48244527e815dcea8772e9cfcc50
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=3679c28ad6749063a056efbb3fc1d1cb
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=ae9f00ce3107219f2003cfef9965a163
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=87a581152cb66fb9ab057143899edf89
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=4294020bd11370053e0124c1e5d95834
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=20961d72e08361891990ee2f74b7dcb2
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=11ac1b365d948765e1cb59f9dc4139c1
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=f642988ac6dc9ae17c6d5503cc232a8e
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=5e3d70fccc596e9c901338f9f7878dac
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=f9bd85761cbacec2d838a4e7c4c4e720
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=d79d0cad411e57ad0ab0e20ced4cc1d0
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=8d9bc91a60f09aaba335381cca51c7d5
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=3fd7caaf284f22e4dd0440f0dc4dd579
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=f2d556890e5cc18b08b77ba44ea7fa6f
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=4915483b77dcfde45d229ba70d97a4ff
-https://vip07.20250812.xyz/api/v1/client/subscribe?token=dbe26ee6a5664290fa7a5d1e6d1bee6b
+https://vip07.20250812.xyz/api/v1/client/subscribe?token=f6b8b1d6be16ff8962f76ffb457f7395
 https://vip07.20250812.xyz/api/v1/client/subscribe?token=d41d1bc93aabb73c72ad0d1948c5ec48
 
 ```
