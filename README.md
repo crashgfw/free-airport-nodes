@@ -39,19 +39,19 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=03316dc4064c8780e33b6ac0e46ee3a1
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=6bd4cdac40876368bdedfe7111b4ac54
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=8124c26583df8d2803b4f86cd19e5237
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=ac7d08361f8f4bc9b66193101f65d828
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=247a509795d4f7dc5566784203cc1556
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=23a4f5be47fef46f59fc57d32960769a
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=613caf9d8ef54806b5570a3795b3d2fb
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=82ccbea6176d5bb195d5814e8f589e85
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=81fe2b2fd0ee5741a5a391341a26b300
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=008a6312cfda9689d6b28fc70d362a50
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=9aac4ddec512919b493a62cf70aaffdc
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=388fd34f3ee93d16106866d2e6d077a9
-https://vip08.20250812.xyz/api/v1/client/subscribe?token=5f01cc3da93ace118a48400fbf9f29a7
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=03316dc4064c8780e33b6ac0e46ee3a1
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=6bd4cdac40876368bdedfe7111b4ac54
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=8124c26583df8d2803b4f86cd19e5237
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=ac7d08361f8f4bc9b66193101f65d828
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=247a509795d4f7dc5566784203cc1556
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=23a4f5be47fef46f59fc57d32960769a
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=613caf9d8ef54806b5570a3795b3d2fb
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=82ccbea6176d5bb195d5814e8f589e85
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=81fe2b2fd0ee5741a5a391341a26b300
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=008a6312cfda9689d6b28fc70d362a50
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=9aac4ddec512919b493a62cf70aaffdc
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=388fd34f3ee93d16106866d2e6d077a9
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=5f01cc3da93ace118a48400fbf9f29a7
 
 ```
 
