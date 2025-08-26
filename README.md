@@ -39,19 +39,19 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=03316dc4064c8780e33b6ac0e46ee3a1
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=6bd4cdac40876368bdedfe7111b4ac54
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=8124c26583df8d2803b4f86cd19e5237
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=ac7d08361f8f4bc9b66193101f65d828
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=e11e202127089e07dabb17bc1915c386
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=52e9d3fe44d355f9f25ab71b44150fe1
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=fa9546805e1409d2a9857ba73da7f829
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=78b4b4a7fef53f0341e850aad1dffdb9
 https://vip09.20250812.xyz/api/v1/client/subscribe?token=247a509795d4f7dc5566784203cc1556
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=23a4f5be47fef46f59fc57d32960769a
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=3f691cd65a414d0b09cfee93ec93f521
 https://vip09.20250812.xyz/api/v1/client/subscribe?token=613caf9d8ef54806b5570a3795b3d2fb
 https://vip09.20250812.xyz/api/v1/client/subscribe?token=82ccbea6176d5bb195d5814e8f589e85
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=81fe2b2fd0ee5741a5a391341a26b300
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=9424c23f244cdbf3c07b5042df25fe22
 https://vip09.20250812.xyz/api/v1/client/subscribe?token=008a6312cfda9689d6b28fc70d362a50
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=9aac4ddec512919b493a62cf70aaffdc
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=388fd34f3ee93d16106866d2e6d077a9
-https://vip09.20250812.xyz/api/v1/client/subscribe?token=5f01cc3da93ace118a48400fbf9f29a7
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=43f7c92b0551e93bbd4115e671627a61
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=dadbe371c02c6edfa2aa6ebc92c00970
+https://vip09.20250812.xyz/api/v1/client/subscribe?token=2e2f66b3d43ab3a2f4e793eb8d64e97b
 
 ```
 
