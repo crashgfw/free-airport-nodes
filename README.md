@@ -39,19 +39,19 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=b73f0d4d306cf508f9ed2d98ee1828ee
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=02967a2a21605b5b1045f4459c75bc15
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=071069f1a0a64165feae236e456b01d0
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=125de09a2e8203b2ad3ff2d98bdcfbca
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=27d63dc6a68f3cc3f44b510cd13c7c19
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=33419225232d8d04ad7bc835aa797475
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=8bed2275c5111eab92b4a81d7bb7f820
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=d911192202177f37514e313dfb023b52
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=2e0d2e4db8c9da475d645cc66b07731c
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=41c338eaa7bc297db7b7c4bc05bea75b
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=520fbfe7fd01025ce65621f6a193815f
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=01268d70380a4107689a2e71951e9531
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=57717c5755f46629cc0df54fe261a90b
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=202c3e467362a75ac070702baecd0a5c
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=3aa5e6bbd5d294790f3b438001019934
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=582276cbd079062dc72ae18f0a299549
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=ea56500422d96d59f8b4242163f4b87e
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=0ba20fc2636fe26f7a0e01096112c25a
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=12277b20970b1aa5c9f294163ec8f4b3
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=3e880a8dc45717f95e4467558accd803
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=d4c2dfd913da82a0415890a7c64f36ab
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=4fb2195642e30c2965ba1e5121a0857c
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=88e4736b8f391053357fc7e4cff8d451
 
 ```
 
