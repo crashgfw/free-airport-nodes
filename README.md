@@ -39,10 +39,10 @@ stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=9fceead22e465b3eef53a5b94a43acce
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=8ec156a78f2fd67b6be10394739570a2
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=61ae88c12aa7afde1d26224e73fa8397
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=d6548d070a5eaf781073aef7e9ad865d
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=3bae013dccaad5f2be67f94b35cb8e14
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=4f224b6d63a5d4f4647adb46c03b7d33
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=fabe939f8579047901a656fe9b70fe1f
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=e96059c1547e24a25dc987ddd4be1318
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=5a62af5be205b539fc78a078107eef1a
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=fa45e5a4eb8b3858266d92f3c4f8690e
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=25dfc03e8b968429fe5aee997d25ec06
