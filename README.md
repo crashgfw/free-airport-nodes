@@ -39,7 +39,7 @@
 # V2ray订阅链接：
 
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=6587ff03d3a2749a50b4086c582b9847
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=9f8fc470c8315c2f9c4444766b5ea238
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=a3ecf8f5fc85dbd559cdd24718f7f04a
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=26d81a01aab04c7a32598970efc9406c
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=2cb4f25d208d0f5bf2b2f135fd52a6a1
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=c549e36359d43f3271219b8f6ace29e4
@@ -47,7 +47,7 @@ https://vip10.20250812.xyz/api/v1/client/subscribe?token=bf47cf2a96fa2b796989673
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=fd802ccffd5d7d33a070d28b97930eb5
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=89d6746485336d42079a4be08134f2e2
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=8d242393550c4b6325ba13b98e88d0a5
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=118bd8f8e7f481a89b879b53d2c0a3b4
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=53b7c5f821e2973bbcc39b03b4c89e70
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=aa2a3976f6e1ff0190ffc100fbe8c215
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=b579a3392dabf57959f32b69eb4a77a8
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=b9d47e1e4ee6de112e73e2aa3e0cbc62
