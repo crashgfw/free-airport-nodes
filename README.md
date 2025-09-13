@@ -38,19 +38,19 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=664fb7b54fb11b55a9302992757c3b61
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=1dd02da3ed15741d24e787c7fe6a997c
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=24ced0a72f056f8a605eb5c6578ad77b
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=8c499a1ff20e5a31ac265f7908dd1305
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=2321f70f903be5a1ca57c720fc736815
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=ebcaeb601f951412dcbc09d08140a739
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=dff0a264eeddec367aeb519f9c1b3a49
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=6aea8b2e58160d6b5e871fc7f1be0d0f
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=8ba634a87e7189831230da7def8b1578
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=256476ac716bc846b2c0ad89fc8d6aa6
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=e74a25a01637eb238421ace70362a5e8
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=a94129950702a80e07afe0de2e756ed2
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=963663695a734257103cfead2e81408d
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=5cd27a691449b6e5f88e9a638229b1fb
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=866ce41961a3c3d1ed1c5df3e2231afa
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=b61f5ee69504164c669fe1056c517628
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=a0a6c42c3e3fa14b7de2eeba5ac5c845
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=44251d3b7c78a6c9b72942ba352c01cf
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=b91aae20b64b586e3dad50a2df836443
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=6ae9d0b77a66778beb65953d00388fe0
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=e7cbfaaeb7a3fd36d6101b7c5087d706
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=b4e5b930a39eeb9e3fae6b7f09eaf9e4
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=a4ec91d7e18141133f6bb296a1f110a2
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=438d68a528ffede45e28c88388e2577e
 
 ```
 
