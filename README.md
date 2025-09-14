@@ -38,19 +38,19 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=972119d7be84ae945f3f3085723d3efc
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=077c850d7b4c982ccb5c6273776ec204
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=a22de74249abc87791c29dcb498508b6
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=8ba634a87e7189831230da7def8b1578
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=256476ac716bc846b2c0ad89fc8d6aa6
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=e74a25a01637eb238421ace70362a5e8
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=94533e86419a4b5e66d48bb32b2351a5
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=b3f6387e4eb181ccd03a507e8e226967
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=a9e6fcfb0f5b9fd0d0908a10c024948d
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=3cc11fb566959e91f34d1218f38f7789
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=dd9e19be7a6f3cd2ca5bccfe41f51a3c
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=233c88cde1225e2bad3673149a050839
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=1a6c3eb8968704470b7ad770204f49d9
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=6ae9d0b77a66778beb65953d00388fe0
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=e7cbfaaeb7a3fd36d6101b7c5087d706
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=9566574da47931a8ef4a95d63a86a94c
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=9247900cd1d823acb81262bffa0ed08e
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=b4e5b930a39eeb9e3fae6b7f09eaf9e4
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=a4ec91d7e18141133f6bb296a1f110a2
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=438d68a528ffede45e28c88388e2577e
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=3185ae781ff678f153a88192ecb25786
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2c59191f6d
 
 ```
 
