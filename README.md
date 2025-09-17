@@ -38,8 +38,8 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip12.20250812.xyz/api/v1/client/subscribe?token=79136e9f53b11216b50b4d1f18c936bf
-https://vip12.20250812.xyz/api/v1/client/subscribe?token=4b77cfb04276753e49dc94150cc5ad36
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=a3338f6e228dcbe9234a79f2a2304139
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=3ebe119a087735404c917588ea6f31b8
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=ba922e5949df8e29ceb76ab7a868bd47
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=da079ee5d8902ffaf5484d28b7ba1ae4
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=73988db06836b224a303a9cc0be14a58
@@ -50,7 +50,7 @@ https://vip12.20250812.xyz/api/v1/client/subscribe?token=413327cb8048143fc712cfd
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=0cd492b1ad219aaea9fd7ad326a28e8f
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=ebb18a0e87245c54e73425737f9d4af7
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=eb2322884e237fc8bdbb4070e961acbe
-https://vip12.20250812.xyz/api/v1/client/subscribe?token=3611752881ff398051c130c4980142a3
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=19f3a45db02836b28fe7ae91e0e5bb23
 
 ```
 
