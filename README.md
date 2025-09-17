@@ -1,4 +1,4 @@
-# 每日更新，2025 年 09 月 16 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 每日更新，2025 年 09 月 17 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. **[稳联云](https://shortlink3.20250812.xyz/1)**
 
@@ -31,7 +31,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 09 月 16 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 09 月 17 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -42,11 +42,11 @@ https://vip12.20250812.xyz/api/v1/client/subscribe?token=79136e9f53b11216b50b4d1
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=4b77cfb04276753e49dc94150cc5ad36
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=ba922e5949df8e29ceb76ab7a868bd47
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=171bc4822a429e377a8cdd0d1de14a77
-https://vip12.20250812.xyz/api/v1/client/subscribe?token=7f5139b2067b3a3b0ebf24720440968d
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=73988db06836b224a303a9cc0be14a58
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=3936c6ba85d6059a8b4c8f47618f4ded
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=e21389c35853bbf48206e62881d49c1f
-https://vip12.20250812.xyz/api/v1/client/subscribe?token=e23e8164ef0ae27373ac69016979072d
-https://vip12.20250812.xyz/api/v1/client/subscribe?token=a7e8f6583dcc66fde73634820789ca61
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=9ab836361504f6779239e8135391d542
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=413327cb8048143fc712cfd42b0d48fb
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=0cd492b1ad219aaea9fd7ad326a28e8f
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=ebb18a0e87245c54e73425737f9d4af7
 https://vip12.20250812.xyz/api/v1/client/subscribe?token=eb2322884e237fc8bdbb4070e961acbe
@@ -63,4 +63,4 @@ https://vip12.20250812.xyz/api/v1/client/subscribe?token=3611752881ff398051c130c
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 09 月 16 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 09 月 17 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
