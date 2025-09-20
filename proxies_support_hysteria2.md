@@ -10,7 +10,7 @@ Hysteria Github 主页：
 
 [https://github.com/apernet/hysteria](https://github.com/apernet/hysteria)
 
-## **1\.** [**稳联云**](https://shortlink.20250920.top/2)
+## **1\.** [**稳联云**](https://st01.20250920.top/2)
 
 ![稳联云 VPN 全球加速机场](https://v2raya.net/images/stablenet/logo.png "稳联云 VPN 全球加速机场")
 
@@ -44,7 +44,7 @@ stablenet–稳联云机场平台自 2022 年成立以来，便以专业的优�
 *   安卓系统：Surfboard、Clash Meta、Hiddify Next;
 *   iOS：Shadowrocket、Stash（Clash for iOS）、Hiddify Next;
 
-[稳联云 入口](https://shortlink.20250920.top/2)
+[稳联云 入口](https://st01.20250920.top/2)
 
 ## **Riolu 精灵学院机场**
 
