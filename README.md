@@ -1,6 +1,7 @@
-# 1. 每日更新，2025 年 09 月 28 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# free-nodes
+每日更新，2025 年 08 月 05 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
-## 1.1. <a  href="https://st01.20250920.top/1" target="_blank">稳联云</a>
+## 1. <a href="https://st01.20250920.top/1" target="_blank">稳联云</a>
 
 <a href="https://st01.20250920.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
 
@@ -8,7 +9,7 @@
 - 有不限时套餐选择;
 - youtube全天4K;
 
-[stablenet–稳联云机场平台](https://st01.20250920.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
+stablenet–稳联云机场平台自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
 
 稳联云机场平台主打速度快、节点稳定的特点。其套餐种类丰富，满足不同人群的需求。
 
@@ -29,44 +30,32 @@
 
 <a href="https://st01.20250920.top/1" target="_blank">稳联云 入口</a>
 
-## 1.2. 免费订阅
+## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 09 月 28 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 08 月 05 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip16.20250920.top/api/v1/client/subscribe?token=64f6acd431fdbb9bcbf8fbde2bf18502
-https://vip16.20250920.top/api/v1/client/subscribe?token=be4aefe82701d39d2a2a4c8cbb267e03
-https://vip16.20250920.top/api/v1/client/subscribe?token=4b8118fefd1394066541600aa2518c62
-https://vip16.20250920.top/api/v1/client/subscribe?token=c4a40f44093159651e0d0519a06b44f8
-https://vip16.20250920.top/api/v1/client/subscribe?token=9f38d2000835b48579ac4fa7e759414a
-https://vip16.20250920.top/api/v1/client/subscribe?token=34299cd38c5b5278f0b1f9237b77410a
-https://vip16.20250920.top/api/v1/client/subscribe?token=661198cb437aab43ed73e810216ca918
-https://vip16.20250920.top/api/v1/client/subscribe?token=47dbb6c840e7face7053694405d02b43
-https://vip16.20250920.top/api/v1/client/subscribe?token=a9bcfe15df49bdedcd763c80f7461ebc
-https://vip16.20250920.top/api/v1/client/subscribe?token=3bcb3f4bd33156449af99a8bb2258783
-https://vip16.20250920.top/api/v1/client/subscribe?token=703984259b3a177df58efad8cee23e10
-https://vip16.20250920.top/api/v1/client/subscribe?token=6704a5b41a8988bc2a47372875cfca37
-https://vip16.20250920.top/api/v1/client/subscribe?token=0e20b710d1c3cab005728d092e291bcd
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=9f1745badae2695ec61743f1019a712d
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=78e92315623830d3fb251fadc4c00b50
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=3bd18843bcb9910c8cd386c69b4e01df
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=691aa003e4aa6342eed3a67e0503d6a1
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=4b242f03faf27cac4b7d2759325da992
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=d433c7095b779b8eb6685a182c283298
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=75f9e7845741a007f52fce2279740145
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=b031a7231e7fefea0880ce5fc4b170a2
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=9ce76d6d162ca625630f8f92b216c182
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=105cc6c152070162b653dd35f9659244
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=2d12f0474d932131528632c764dc6e0b
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=aeae343f0ef350ea97ad6136ce71dd09
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=27bad9852f4a5701e011cd011d049283
 
 ```
 
-## 1.3. 翻墙客户端推荐
-
-免费节点结合以下支持最新协议的翻墙客户端使用效果最佳：
-
-- [Linux 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/linux/)
-- [MacOS 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/macos/)
-- [Windows 上安装与配置 HiddifyApp](https://proxyguide.org/hiddifyapp/windows/)
-- [Hiddify Next (Android) 安装与配置教程](https://proxyguide.org/hiddifyapp/android/)
-- [Hiddify Next (iOS) 安装与配置教程](https://proxyguide.org/hiddifyapp/ios/)
-- [Windows 平台 v2rayN 安装与配置教程](https://proxyguide.org/v2ray/v2rayN-install/)
-- [Clash Verge Rev 安装与使用教程](https://proxyguide.org/clash/clash-verge-on-linux/)
-
-## 1.4. 使用须知
+## 3. 使用须知
 
 免费机场的节点因使用人数众多，速度可能较慢甚至无法畅通。为了确保节点的有效性和使用体验，建议在连接前先进行连通性测试，避免使用失效的节点。**订阅会每天重置， 防止订阅被长期乱用，请使用当天最新公益免费订阅URL**。
 
@@ -75,4 +64,4 @@ https://vip16.20250920.top/api/v1/client/subscribe?token=0e20b710d1c3cab005728d0
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 09 月 28 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 08 月 05 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
