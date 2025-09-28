@@ -8,7 +8,7 @@
 - 有不限时套餐选择;
 - youtube全天4K;
 
-[stablenet–稳联云机场平台](https://st01.20250920.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
+[稳联云机场](https://st01.20250920.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
 
 稳联云机场平台主打速度快、节点稳定的特点。其套餐种类丰富，满足不同人群的需求。
 
@@ -42,7 +42,7 @@ https://vip16.20250920.top/api/v1/client/subscribe?token=aad333c73fa753f37acbf4e
 https://vip16.20250920.top/api/v1/client/subscribe?token=be4aefe82701d39d2a2a4c8cbb267e03
 https://vip16.20250920.top/api/v1/client/subscribe?token=d3bd8edc42602f3b5be24279a417d08b
 https://vip16.20250920.top/api/v1/client/subscribe?token=c4a40f44093159651e0d0519a06b44f8
-https://vip16.20250920.top/api/v1/client/subscribe?token=ee6fa76292e0ac68a4729a367b9713fb
+https://vip16.20250920.top/api/v1/client/subscribe?token=9d2030c0c9438e229fa22d5bf5b4606b
 https://vip16.20250920.top/api/v1/client/subscribe?token=34299cd38c5b5278f0b1f9237b77410a
 https://vip16.20250920.top/api/v1/client/subscribe?token=661198cb437aab43ed73e810216ca918
 https://vip16.20250920.top/api/v1/client/subscribe?token=47dbb6c840e7face7053694405d02b43
