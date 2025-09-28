@@ -50,7 +50,7 @@ https://vip16.20250920.top/api/v1/client/subscribe?token=a9bcfe15df49bdedcd763c8
 https://vip16.20250920.top/api/v1/client/subscribe?token=3bcb3f4bd33156449af99a8bb2258783
 https://vip16.20250920.top/api/v1/client/subscribe?token=703984259b3a177df58efad8cee23e10
 https://vip16.20250920.top/api/v1/client/subscribe?token=6704a5b41a8988bc2a47372875cfca37
-https://vip16.20250920.top/api/v1/client/subscribe?token=ba0e6969164050290139bf09587c395d
+https://vip16.20250920.top/api/v1/client/subscribe?token=0e20b710d1c3cab005728d092e291bcd
 
 ```
 
