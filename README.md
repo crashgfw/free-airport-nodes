@@ -1,4 +1,4 @@
-# 1. 每日更新，2025 年 10 月 06 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 1. 每日更新，2025 年 10 月 07 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1.1. <a  href="https://st01.20250920.top/1" target="_blank">稳联云</a>
 
@@ -31,7 +31,7 @@
 
 ## 1.2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 10 月 06 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 10 月 07 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -43,10 +43,10 @@ https://vip17.20250920.top/api/v1/client/subscribe?token=8f47aaeffd864772e0c0362
 https://vip17.20250920.top/api/v1/client/subscribe?token=0f1e1aa061003f7865a8fcfe7151eba2
 https://vip17.20250920.top/api/v1/client/subscribe?token=626dd25a6f2b405b623055f5f0e50357
 https://vip17.20250920.top/api/v1/client/subscribe?token=d06eaf29bb076940c0856fab16fda446
-https://vip17.20250920.top/api/v1/client/subscribe?token=ca3795653b0f1bf4c8bc2df622aec738
+https://vip17.20250920.top/api/v1/client/subscribe?token=b842a84d527e54be9eba3057bdfc2c70
 https://vip17.20250920.top/api/v1/client/subscribe?token=c70476c8ba7b9a8c8a9ae28079fda1a6
-https://vip17.20250920.top/api/v1/client/subscribe?token=7e05c2604e07fcc4d772c108da834e63
-https://vip17.20250920.top/api/v1/client/subscribe?token=7aab48c64f038f8b8c57cfade5dc4ed0
+https://vip17.20250920.top/api/v1/client/subscribe?token=40d2f3116a10bc3e2f1cca60f16c43bf
+https://vip17.20250920.top/api/v1/client/subscribe?token=e4fca7c0bf9f2f990b9a8fb009e23992
 https://vip17.20250920.top/api/v1/client/subscribe?token=806b9ffb021d646de7224ddea1de930a
 https://vip17.20250920.top/api/v1/client/subscribe?token=de42c44b77c2e8965b0e5075e413077e
 https://vip17.20250920.top/api/v1/client/subscribe?token=7654508f185bfb25981f320ffcbb7a0c
@@ -75,4 +75,4 @@ https://vip17.20250920.top/api/v1/client/subscribe?token=246e3bc40b3547f59ed26f6
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 10 月 06 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 10 月 07 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
