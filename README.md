@@ -1,14 +1,14 @@
 # 2025 年 10 月 14 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
-## 1. <a  href="https://ppa.20251009.top/1" target="_blank">稳联云</a>
+## 1. <a  href="https://psa.20251009.top/1" target="_blank">稳联云</a>
 
-<a href="https://ppa.20251009.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
+<a href="https://psa.20251009.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
 
 - 主打速度快，节点稳老牌机场;
 - 有不限时套餐选择;
 - youtube全天4K;
 
-[稳联云机场](https://ppa.20251009.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
+[稳联云机场](https://psa.20251009.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
 
 稳联云机场平台主打速度快、节点稳定的特点。其套餐种类丰富，满足不同人群的需求。
 
@@ -27,7 +27,7 @@
 -   IEPL/IPLC 基础专线: 最高速率 200Mbps, 100G 流量/月，48 元/月; 129.8 元/季; 228 元/半年; 428 元/年; 总设备数不限;
 -   IEPL/IPLC 高级专线: 最高速率 300Mbps, 200G 流量/月，88 元/月; 251.8 元/季; 475.2 元/半年; 897 元/年; 总设备数不限;
 
-<a href="https://ppa.20251009.top/1" target="_blank">稳联云 入口</a>
+<a href="https://psa.20251009.top/1" target="_blank">稳联云 入口</a>
 
 ## 2. 免费订阅
 
@@ -43,9 +43,9 @@ https://pub02.20251009.top/api/v1/client/subscribe?token=53d3b5d43c9f7be4a2c3858
 https://pub02.20251009.top/api/v1/client/subscribe?token=129d3fd317e18b25321d215a90ae37f8
 https://pub02.20251009.top/api/v1/client/subscribe?token=c011c18c551d327b4cebc723177cf425
 https://pub02.20251009.top/api/v1/client/subscribe?token=5d56ca3f1d95d258a43d437a54b2f6e5
-https://pub02.20251009.top/api/v1/client/subscribe?token=fbd199c31777c9c33e1a870dc7b94294
+https://pub02.20251009.top/api/v1/client/subscribe?token=1cb94b7b8dd4f6a2792aedea327718f9
 https://pub02.20251009.top/api/v1/client/subscribe?token=fb31ff6e036844efd01a77c4a3bba426
-https://pub02.20251009.top/api/v1/client/subscribe?token=a2ab2b4082f76f70dbc722c2479f84e1
+https://pub02.20251009.top/api/v1/client/subscribe?token=34be4f4ad8e1cb2b813c8d6350fd46c5
 https://pub02.20251009.top/api/v1/client/subscribe?token=79607cf4f95bd1ddc8245bd516167b4e
 https://pub02.20251009.top/api/v1/client/subscribe?token=6a6037fbdf7afd943272b0d38adf126e
 https://pub02.20251009.top/api/v1/client/subscribe?token=ab11649cfa857d6563cf82ba8ed80617
