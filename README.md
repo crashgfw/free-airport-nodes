@@ -1,4 +1,4 @@
-# 2025 年 10 月 16 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2025 年 10 月 17 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://psa.20251009.top/1" target="_blank">稳联云</a>
 
@@ -31,7 +31,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 10 月 16 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 10 月 17 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -40,12 +40,12 @@
 
 https://pub02.20251009.top/api/v1/client/subscribe?token=e0b55bc8c393d54cf4767e2e6fe0d5c7
 https://pub02.20251009.top/api/v1/client/subscribe?token=098561c060ce03c62ad86f8d21eaf97a
-https://pub02.20251009.top/api/v1/client/subscribe?token=f2e38b5f33afd708109dcf44ba12fa0a
-https://pub02.20251009.top/api/v1/client/subscribe?token=080591c85a45994783f6a63373018677
-https://pub02.20251009.top/api/v1/client/subscribe?token=91dece572948407cd4db65c7797e1dcb
+https://pub02.20251009.top/api/v1/client/subscribe?token=bfe7f71b54738717a5ab0dfe12be0810
+https://pub02.20251009.top/api/v1/client/subscribe?token=d7bc931e8620913ba3b22c9f81400068
+https://pub02.20251009.top/api/v1/client/subscribe?token=ef236d4f583dc248fd66f4943f7470bd
 https://pub02.20251009.top/api/v1/client/subscribe?token=fd8a2bbc916593fb86c42d8015ca7671
 https://pub02.20251009.top/api/v1/client/subscribe?token=32759302bed2030096b3656d4c302cf4
-https://pub02.20251009.top/api/v1/client/subscribe?token=1999a9e51ca307be3e73e52d25b11c4d
+https://pub02.20251009.top/api/v1/client/subscribe?token=9262eb1a80fdadb9c1d47451b44dcbd4
 https://pub02.20251009.top/api/v1/client/subscribe?token=1b6a44989514359ff85dd0dc583355d6
 https://pub02.20251009.top/api/v1/client/subscribe?token=f8c1d36430bc60c2bc0e084337e2e1a1
 https://pub02.20251009.top/api/v1/client/subscribe?token=8905cf56572b4f26bd238b45b7b27295
@@ -75,4 +75,4 @@ https://pub02.20251009.top/api/v1/client/subscribe?token=34b806554635459f5119043
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 10 月 16 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 10 月 17 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
