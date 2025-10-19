@@ -50,7 +50,7 @@ https://pub03.20251020a.top/api/v1/client/subscribe?token=af56c571f36109eb24aafe
 https://pub03.20251020a.top/api/v1/client/subscribe?token=76865d0b5be3e890a026b2c430c721dc
 https://pub03.20251020a.top/api/v1/client/subscribe?token=3e3d2a7b2eefae2f3b1519bf25d6daf3
 https://pub03.20251020a.top/api/v1/client/subscribe?token=f2c97ed29f92d10bac91f8688c1dcbeb
-https://pub03.20251020a.top/api/v1/client/subscribe?token=ef99fb5371b96a8534b0f4d8dec42fc1
+https://pub03.20251020a.top/api/v1/client/subscribe?token=b0ab6e4bd2d77d5e1a200057aa982d88
 
 ```
 
