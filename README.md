@@ -38,19 +38,19 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub02.20251009.top/api/v1/client/subscribe?token=8c41ffd59c6ea352488034d7cbdb25b6
-https://pub02.20251009.top/api/v1/client/subscribe?token=18ab7fea6b64d71b18d2669f9b448ce3
-https://pub02.20251009.top/api/v1/client/subscribe?token=2a48ea0997b19dcc181ed9d9c33d102f
+https://pub02.20251009.top/api/v1/client/subscribe?token=8703d0b0a0fe44255655d389500cccc8
+https://pub02.20251009.top/api/v1/client/subscribe?token=5c27f16219e7f056db2fc4f4ce59608b
+https://pub02.20251009.top/api/v1/client/subscribe?token=b5ea74441bfe79016fd31056dd2586ad
 https://pub02.20251009.top/api/v1/client/subscribe?token=9934084f133fe6fd640173a6c17ebc8d
-https://pub02.20251009.top/api/v1/client/subscribe?token=03eeab9d23a9955f5e81011fe6355eaf
+https://pub02.20251009.top/api/v1/client/subscribe?token=2f36d0aa8a8bc88e73d9b6d313ae7201
 https://pub02.20251009.top/api/v1/client/subscribe?token=648ebf78af697c5856f181e3e027b9ed
 https://pub02.20251009.top/api/v1/client/subscribe?token=54afd6af5d89a09d235b3fb397113849
 https://pub02.20251009.top/api/v1/client/subscribe?token=5b9e3bc055edcb633b66db459c14b520
-https://pub02.20251009.top/api/v1/client/subscribe?token=37b1de292f7507ff9210426e4e3e0196
+https://pub02.20251009.top/api/v1/client/subscribe?token=53191b231d3e52c7d23ff20697f6a522
 https://pub02.20251009.top/api/v1/client/subscribe?token=649f7b918955eed2eba054392b18c42b
 https://pub02.20251009.top/api/v1/client/subscribe?token=709aa237d88eb2ab8f315ac1881338eb
-https://pub02.20251009.top/api/v1/client/subscribe?token=1a0eb0a14efc6b30bdd7fc4af7cf7ce3
-https://pub02.20251009.top/api/v1/client/subscribe?token=666431db9eb35b4fcd6aa1a285a6689c
+https://pub02.20251009.top/api/v1/client/subscribe?token=f524cdea47a5bc068e53012f8d50bfd7
+https://pub02.20251009.top/api/v1/client/subscribe?token=dab2a734e95b841e93989acd7285a7e2
 
 ```
 
