@@ -1,14 +1,14 @@
 # 2025 年 10 月 21 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
-## 1. <a  href="https://xyz.20251020a.top/1" target="_blank">稳联云</a>
+## 1. <a  href="https://abc.20251020a.top/1" target="_blank">稳联云</a>
 
-<a href="https://xyz.20251020a.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
+<a href="https://abc.20251020a.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
 
 - 主打速度快，节点稳老牌机场;
 - 有不限时套餐选择;
 - youtube全天4K;
 
-[稳联云机场](https://xyz.20251020a.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
+[稳联云机场](https://abc.20251020a.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
 
 稳联云机场平台主打速度快、节点稳定的特点。其套餐种类丰富，满足不同人群的需求。
 
@@ -27,7 +27,7 @@
 -   IEPL/IPLC 基础专线: 最高速率 200Mbps, 100G 流量/月，48 元/月; 129.8 元/季; 228 元/半年; 428 元/年; 总设备数不限;
 -   IEPL/IPLC 高级专线: 最高速率 300Mbps, 200G 流量/月，88 元/月; 251.8 元/季; 475.2 元/半年; 897 元/年; 总设备数不限;
 
-<a href="https://xyz.20251020a.top/1" target="_blank">稳联云 入口</a>
+<a href="https://abc.20251020a.top/1" target="_blank">稳联云 入口</a>
 
 ## 2. 免费订阅
 
@@ -38,19 +38,19 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub03.20251020a.top/api/v1/client/subscribe?token=e65d2e7fb732e585217ce54f41f373ff
-https://pub03.20251020a.top/api/v1/client/subscribe?token=e252976fc21dd1291c290fdcdacc4921
-https://pub03.20251020a.top/api/v1/client/subscribe?token=9c3ad3323169610b2811c2701a01e51e
-https://pub03.20251020a.top/api/v1/client/subscribe?token=44d58a9fed5db0b49e1378bf893d3050
-https://pub03.20251020a.top/api/v1/client/subscribe?token=ab7b07ce05662191be997b59df43f162
-https://pub03.20251020a.top/api/v1/client/subscribe?token=9554b03f347fe3ac50338d382744ad3b
-https://pub03.20251020a.top/api/v1/client/subscribe?token=2d6b3c4544c9045db2f6a4d77478b218
-https://pub03.20251020a.top/api/v1/client/subscribe?token=458a89d5257f9126f093b3327367a8a4
-https://pub03.20251020a.top/api/v1/client/subscribe?token=b943e8b0bd5ad856a01660752cec19d0
-https://pub03.20251020a.top/api/v1/client/subscribe?token=4f669f428bb7950cc9e9e7ea03874740
-https://pub03.20251020a.top/api/v1/client/subscribe?token=cfd4736c6abe2e9cd48ee2754b746e86
-https://pub03.20251020a.top/api/v1/client/subscribe?token=e1fbc8f7cf815470dc379a99790bae80
-https://pub03.20251020a.top/api/v1/client/subscribe?token=26cd1e02030999adabb1939bbef4e6f1
+https://pub04.20251020a.top/api/v1/client/subscribe?token=e65d2e7fb732e585217ce54f41f373ff
+https://pub04.20251020a.top/api/v1/client/subscribe?token=3843dad902eb65ae3d66699e610b54a8
+https://pub04.20251020a.top/api/v1/client/subscribe?token=9c3ad3323169610b2811c2701a01e51e
+https://pub04.20251020a.top/api/v1/client/subscribe?token=44d58a9fed5db0b49e1378bf893d3050
+https://pub04.20251020a.top/api/v1/client/subscribe?token=ab7b07ce05662191be997b59df43f162
+https://pub04.20251020a.top/api/v1/client/subscribe?token=9554b03f347fe3ac50338d382744ad3b
+https://pub04.20251020a.top/api/v1/client/subscribe?token=a8011b38848aa3637582236c3d5b7486
+https://pub04.20251020a.top/api/v1/client/subscribe?token=458a89d5257f9126f093b3327367a8a4
+https://pub04.20251020a.top/api/v1/client/subscribe?token=b943e8b0bd5ad856a01660752cec19d0
+https://pub04.20251020a.top/api/v1/client/subscribe?token=4f669f428bb7950cc9e9e7ea03874740
+https://pub04.20251020a.top/api/v1/client/subscribe?token=28f8170e583bda26a4ddb4c436f3d74f
+https://pub04.20251020a.top/api/v1/client/subscribe?token=e1fbc8f7cf815470dc379a99790bae80
+https://pub04.20251020a.top/api/v1/client/subscribe?token=e5b292e247b8050e6f442c7360699011
 
 ```
 
