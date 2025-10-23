@@ -16,7 +16,7 @@
 
 **套餐价格：**
 
--   入门套餐：最高速率 100Mbps, 120G 流量/月， 9.9 元/月; 28.8 元/季; 53.8 元/半年; 100 元/年; 总设备数不限;
+-   入门套餐：最高速率 100Mbps, 130G 流量/月， 9.9 元/月; 28.8 元/季; 53.8 元/半年; 100 元/年; 总设备数不限;
 -   标准套餐：最高速率 200Mbps, 300G 流量/月， 18.8 元/月; 53.8 元/季; 101.8 元/半年; 188 元/年; 总设备数不限;
 -   高级套餐：最高速率 300Mbps, 500G 流量/月， 28.8 元/月; 79.8 元/季; 151.2 元/半年; 285.6 元/年; 总设备数不限;
 -   豪华套餐：最高速率 400Mbps, 800G 流量/月， 48.8 元/月; 139 元/季; 263 元/半年; 497 元/年; 总设备数不限;
@@ -38,7 +38,7 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub04.20251020a.top/api/v1/client/subscribe?token=29dcd18fd35b47f790003ee8c313a133
+https://pub04.20251020a.top/api/v1/client/subscribe?token=8b87b1dd2f19169d8e3e230c703d3042
 https://pub04.20251020a.top/api/v1/client/subscribe?token=2b34f61827a84e001cfaf19674e121b8
 https://pub04.20251020a.top/api/v1/client/subscribe?token=1f7dd7c6127aea2f376c8d0cb8a03fa0
 https://pub04.20251020a.top/api/v1/client/subscribe?token=dca17f182cb0546b07fe4f53f99cdcf9
@@ -50,7 +50,7 @@ https://pub04.20251020a.top/api/v1/client/subscribe?token=80d9e48a280938c6c9f6b8
 https://pub04.20251020a.top/api/v1/client/subscribe?token=d4fd853af4587dfc2a0952eba7af4735
 https://pub04.20251020a.top/api/v1/client/subscribe?token=c5c916cd8c7810789488b7aecd5b22d4
 https://pub04.20251020a.top/api/v1/client/subscribe?token=3cfd3dc3836b3f650bba28ee0b731bda
-https://pub04.20251020a.top/api/v1/client/subscribe?token=e9e541bbf38b8afce6355e3aa7dbeb68
+https://pub04.20251020a.top/api/v1/client/subscribe?token=37449206cb52246417dee37fac1f2e5b
 
 ```
 
