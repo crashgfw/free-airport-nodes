@@ -39,7 +39,7 @@
 # V2ray订阅链接：
 
 https://pub04.20251020a.top/api/v1/client/subscribe?token=a3bcd0ffb2a0bbdb3d47dceeca55d121
-https://pub04.20251020a.top/api/v1/client/subscribe?token=1991c11d343ec65ae353f17115ada1a1
+https://pub04.20251020a.top/api/v1/client/subscribe?token=c5a3ec7f7ab3441d197b38c2211faec7
 https://pub04.20251020a.top/api/v1/client/subscribe?token=8d12a394cf5958e63dd8a235af22b34a
 https://pub04.20251020a.top/api/v1/client/subscribe?token=f717890a6842827987bfee7af7ea1705
 https://pub04.20251020a.top/api/v1/client/subscribe?token=0dd5f3d2943c9cf9a3521f2a17a4461a
