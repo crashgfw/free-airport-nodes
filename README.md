@@ -1,14 +1,14 @@
 # 2025 年 10 月 26 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
-## 1. <a  href="https://abc.20251020a.top/1" target="_blank">稳联云</a>
+## 1. <a  href="https://def.20251020a.top/1" target="_blank">稳联云</a>
 
-<a href="https://abc.20251020a.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
+<a href="https://def.20251020a.top/1" target="_blank"><image src="https://v2raya.net/images/stablenet/logo.png" style="width: 40%" title="稳联云 VPN 全球加速机场" alt="稳联云 VPN 全球加速机场"/> </a>
 
 - 主打速度快，节点稳老牌机场;
 - 有不限时套餐选择;
 - youtube全天4K;
 
-[稳联云机场](https://abc.20251020a.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
+[稳联云机场](https://def.20251020a.top/1)自2022年成立以来，便以专业的优质v2ray机场身份，为全球用户提供高质量的网络加速服务。被广泛应用于国际网络游戏加速、远程SOHO办公和跨境电商领域，深受游戏加速器、远程办公和跨境电商业务用户的青睐。
 
 稳联云机场平台主打速度快、节点稳定的特点。其套餐种类丰富，满足不同人群的需求。
 
@@ -27,7 +27,7 @@
 -   IEPL/IPLC 基础专线: 最高速率 200Mbps, 100G 流量/月，48 元/月; 129.8 元/季; 228 元/半年; 428 元/年; 总设备数不限;
 -   IEPL/IPLC 高级专线: 最高速率 300Mbps, 200G 流量/月，88 元/月; 251.8 元/季; 475.2 元/半年; 897 元/年; 总设备数不限;
 
-<a href="https://abc.20251020a.top/1" target="_blank">稳联云 入口</a>
+<a href="https://def.20251020a.top/1" target="_blank">稳联云 入口</a>
 
 ## 2. 免费订阅
 
@@ -38,21 +38,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub04.20251020a.top/api/v1/client/subscribe?token=fb111199bee575f63117fcd820d083f5
-https://pub04.20251020a.top/api/v1/client/subscribe?token=adf82e9bbc6744f329c06ffa4b8bfe95
-https://pub04.20251020a.top/api/v1/client/subscribe?token=6592d6118e739b76cb80701d834037a7
-https://pub04.20251020a.top/api/v1/client/subscribe?token=e4c30dfed777fb8499f0288e5e10de04
-https://pub04.20251020a.top/api/v1/client/subscribe?token=15ce87c7aab0a95e76957f4bee1b198e
-https://pub04.20251020a.top/api/v1/client/subscribe?token=830563fe7e4fbc5abbd894719cb5874f
-https://pub04.20251020a.top/api/v1/client/subscribe?token=c9e5edeedf39cf872bf1f4a5deee1018
-https://pub04.20251020a.top/api/v1/client/subscribe?token=ea0cef6f536b57d5419eb3fc003ba644
-https://pub04.20251020a.top/api/v1/client/subscribe?token=d68cf77f8a58e0c9d8dc3d3a57193b1a
-https://pub04.20251020a.top/api/v1/client/subscribe?token=2779930d91a564e4a5f9a78cd42766ad
-https://pub04.20251020a.top/api/v1/client/subscribe?token=c24530bac65d7897ffe4df0830aa42f5
-https://pub04.20251020a.top/api/v1/client/subscribe?token=d2dd34312545f1690de1fa9f9faa169d
-https://pub04.20251020a.top/api/v1/client/subscribe?token=5a24f49505e8faddc892254a42905fe4
-https://pub04.20251020a.top/api/v1/client/subscribe?token=9e301dd427ffc0a87bc4ff43835ed22c
-https://pub04.20251020a.top/api/v1/client/subscribe?token=dc4a9de33a2cc89f147d613196f52b50
+https://pub05.20251020a.top/api/v1/client/subscribe?token=fb111199bee575f63117fcd820d083f5
+https://pub05.20251020a.top/api/v1/client/subscribe?token=adf82e9bbc6744f329c06ffa4b8bfe95
+https://pub05.20251020a.top/api/v1/client/subscribe?token=6592d6118e739b76cb80701d834037a7
+https://pub05.20251020a.top/api/v1/client/subscribe?token=e4c30dfed777fb8499f0288e5e10de04
+https://pub05.20251020a.top/api/v1/client/subscribe?token=15ce87c7aab0a95e76957f4bee1b198e
+https://pub05.20251020a.top/api/v1/client/subscribe?token=830563fe7e4fbc5abbd894719cb5874f
+https://pub05.20251020a.top/api/v1/client/subscribe?token=c9e5edeedf39cf872bf1f4a5deee1018
+https://pub05.20251020a.top/api/v1/client/subscribe?token=ea0cef6f536b57d5419eb3fc003ba644
+https://pub05.20251020a.top/api/v1/client/subscribe?token=d68cf77f8a58e0c9d8dc3d3a57193b1a
+https://pub05.20251020a.top/api/v1/client/subscribe?token=2779930d91a564e4a5f9a78cd42766ad
+https://pub05.20251020a.top/api/v1/client/subscribe?token=c24530bac65d7897ffe4df0830aa42f5
+https://pub05.20251020a.top/api/v1/client/subscribe?token=d2dd34312545f1690de1fa9f9faa169d
+https://pub05.20251020a.top/api/v1/client/subscribe?token=5a24f49505e8faddc892254a42905fe4
+https://pub05.20251020a.top/api/v1/client/subscribe?token=9e301dd427ffc0a87bc4ff43835ed22c
+https://pub05.20251020a.top/api/v1/client/subscribe?token=dc4a9de33a2cc89f147d613196f52b50
 
 ```
 
