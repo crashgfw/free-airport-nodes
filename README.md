@@ -38,21 +38,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub05.20251020a.top/api/v1/client/subscribe?token=fe46abed97caca522d4fa9ba144e6e8e
+https://pub05.20251020a.top/api/v1/client/subscribe?token=4cf70ce8e965dbb93ff862ef96d2aa7e
 https://pub05.20251020a.top/api/v1/client/subscribe?token=33a8426d0b2ea764186643baef1e26fe
-https://pub05.20251020a.top/api/v1/client/subscribe?token=6506fc88c5f3422f1a0b7093d8e25943
-https://pub05.20251020a.top/api/v1/client/subscribe?token=1894b083a5b781faf55b1fedc551b038
-https://pub05.20251020a.top/api/v1/client/subscribe?token=1ec655c105cf9fbfa868d1bac6bef0bb
+https://pub05.20251020a.top/api/v1/client/subscribe?token=a03e38efe48400813caf5c54a7ac9ad2
+https://pub05.20251020a.top/api/v1/client/subscribe?token=7224ec869baf75e80bbf20daa9c918f1
+https://pub05.20251020a.top/api/v1/client/subscribe?token=10cd29b979d16098f4c40650643426e8
 https://pub05.20251020a.top/api/v1/client/subscribe?token=ae3a98983c872ab71271acde89d4ea59
-https://pub05.20251020a.top/api/v1/client/subscribe?token=77c967fb3b90484cb01906424606e971
-https://pub05.20251020a.top/api/v1/client/subscribe?token=12b3db5d2c0c100831f9e906b4164980
+https://pub05.20251020a.top/api/v1/client/subscribe?token=03199d6c597c9f76f906a94f40042aee
+https://pub05.20251020a.top/api/v1/client/subscribe?token=aff516c6990d193a247229db0b8b2306
 https://pub05.20251020a.top/api/v1/client/subscribe?token=14e20495c388cfac7f4fdbd1196338a3
-https://pub05.20251020a.top/api/v1/client/subscribe?token=b54d6944cbc5d1b24919a0c076695d9d
+https://pub05.20251020a.top/api/v1/client/subscribe?token=5279de0fc2172bfd82d20f81b4c56ec0
 https://pub05.20251020a.top/api/v1/client/subscribe?token=568419c414c1af7af308df695997b72a
 https://pub05.20251020a.top/api/v1/client/subscribe?token=66e220fd9a907f5e9380190d27fc6bb8
 https://pub05.20251020a.top/api/v1/client/subscribe?token=698bb77292c0d5c6dc11718770534b88
 https://pub05.20251020a.top/api/v1/client/subscribe?token=a3e95ecf1150be5700a373b6f0da736a
-https://pub05.20251020a.top/api/v1/client/subscribe?token=88ebcbcaa97a56fb92331ab4354aff6a
+https://pub05.20251020a.top/api/v1/client/subscribe?token=58d82ee5604bae3edbe1b9b594362840
 
 ```
 
