@@ -1,4 +1,4 @@
-# 2025 年 11 月 12 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2025 年 11 月 13 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://fk01.20251109.top/1" target="_blank">稳联云</a>
 
@@ -31,7 +31,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 11 月 12 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 11 月 13 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -39,8 +39,8 @@
 # V2ray订阅链接：
 
 https://pub10.20251103.top/api/v1/client/subscribe?token=5f43beb045b05f91c55d0f663638c78e
-https://pub10.20251103.top/api/v1/client/subscribe?token=649e8c0ff3ccf03d653de6bc40d3dcb0
-https://pub10.20251103.top/api/v1/client/subscribe?token=2cfbbe24db17e8a720531e672d796b24
+https://pub10.20251103.top/api/v1/client/subscribe?token=ce268d4c846b01437da56db94ee25dd1
+https://pub10.20251103.top/api/v1/client/subscribe?token=13e99de436d46e536cf31369d07a1438
 https://pub10.20251103.top/api/v1/client/subscribe?token=3b81b03df38d19e2deacc8cea1f96738
 https://pub10.20251103.top/api/v1/client/subscribe?token=de3fcb48da76735447fd4e4ab0b760df
 https://pub10.20251103.top/api/v1/client/subscribe?token=c63f23e1efc69f8d7958e65bd440ce21
@@ -50,7 +50,7 @@ https://pub10.20251103.top/api/v1/client/subscribe?token=e6333feceed94c0a4573263
 https://pub10.20251103.top/api/v1/client/subscribe?token=e9c684040d49f47846eab0cd75f8624a
 https://pub10.20251103.top/api/v1/client/subscribe?token=7f13db7366017ace985a77ce9b7b0faf
 https://pub10.20251103.top/api/v1/client/subscribe?token=22ceb533cda4053baae081f06fa211bc
-https://pub10.20251103.top/api/v1/client/subscribe?token=3fa2a844a27cb3dba08d000739ed98f2
+https://pub10.20251103.top/api/v1/client/subscribe?token=b470f475d27a177fa885c5b3c6a90a2a
 https://pub10.20251103.top/api/v1/client/subscribe?token=bc4ee96911ff37f966117170ef56e29b
 https://pub10.20251103.top/api/v1/client/subscribe?token=97073316fdafed755fb2b70c88420bbc
 
@@ -77,4 +77,4 @@ https://pub10.20251103.top/api/v1/client/subscribe?token=97073316fdafed755fb2b70
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 11 月 12 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 11 月 13 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
