@@ -38,21 +38,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub11.20251115.top/api/v1/client/subscribe?token=133b8ff8e46caa207ac834d6dbcac136
-https://pub11.20251115.top/api/v1/client/subscribe?token=06e1d6938dafa5348f5ecc26642d282e
-https://pub11.20251115.top/api/v1/client/subscribe?token=34806fa55dbb3b779944fa7cd3b49514
-https://pub11.20251115.top/api/v1/client/subscribe?token=ace1612100435b8dc5b83a5de9dd4cec
+https://pub11.20251115.top/api/v1/client/subscribe?token=fd6e45780cfa4bfe7a0d68bbb8165e00
+https://pub11.20251115.top/api/v1/client/subscribe?token=2f66ed8ae1d87f03984fa1410589f1c8
+https://pub11.20251115.top/api/v1/client/subscribe?token=a77a4caa7da4a3279bf1b8c12b712937
+https://pub11.20251115.top/api/v1/client/subscribe?token=0898fbe2abc3780e71c58294a8aa1615
 https://pub11.20251115.top/api/v1/client/subscribe?token=dae6f5a294dce3ec0d7b440359d6afaa
 https://pub11.20251115.top/api/v1/client/subscribe?token=e9b6e295d35359f4d51d5fcc924829f2
-https://pub11.20251115.top/api/v1/client/subscribe?token=5eff5f04a08cc33ad7aede9408c7b44d
-https://pub11.20251115.top/api/v1/client/subscribe?token=e9e4be9fbc1238a80d30021e131be111
+https://pub11.20251115.top/api/v1/client/subscribe?token=fb4ebf0eb06da2e63dd59d09fdf21ab1
+https://pub11.20251115.top/api/v1/client/subscribe?token=2a17133d0c8d7f786df2ebe83be64f85
 https://pub11.20251115.top/api/v1/client/subscribe?token=37a1537bfec4effdc47dd6bf0771b534
 https://pub11.20251115.top/api/v1/client/subscribe?token=fa2a2ba2f3c5bbc45162bccbe3223f9d
-https://pub11.20251115.top/api/v1/client/subscribe?token=bd27356bc6e01b2f30e092decd442b56
-https://pub11.20251115.top/api/v1/client/subscribe?token=addc3a02c74fa8b127bb8a15bf9427ec
-https://pub11.20251115.top/api/v1/client/subscribe?token=e00c5f8969e8f6fae32718c3d0546c0d
-https://pub11.20251115.top/api/v1/client/subscribe?token=62300de6836e7f4384a1b322eb226b57
-https://pub11.20251115.top/api/v1/client/subscribe?token=8a7fd699c8bb89e50397aabf0f0f749b
+https://pub11.20251115.top/api/v1/client/subscribe?token=82a2651d1b606fb438fdf25b9897f07e
+https://pub11.20251115.top/api/v1/client/subscribe?token=c782d5a6de556fd191656385a0eb4246
+https://pub11.20251115.top/api/v1/client/subscribe?token=583fb4c57ee7d72e3a844a6659fd9955
+https://pub11.20251115.top/api/v1/client/subscribe?token=69c91a23f594e1e4ef34376b7ffecdad
+https://pub11.20251115.top/api/v1/client/subscribe?token=c0ce0dcedba76c9cfe41934d0c1dc1c0
 
 ```
 
