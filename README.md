@@ -41,7 +41,7 @@
 https://fn02.20251117.top/api/v1/client/subscribe?token=8dfb7f9cce02d4e02163c63b45337860
 https://fn02.20251117.top/api/v1/client/subscribe?token=28d50a0d72417c55937707d0d568f22c
 https://fn02.20251117.top/api/v1/client/subscribe?token=ec561c2d0c6d75d30a9fae3686f2e17d
-https://fn02.20251117.top/api/v1/client/subscribe?token=69cf4710f08bdf649a6fc7d295ae74ef
+https://fn02.20251117.top/api/v1/client/subscribe?token=7974c9c81d9e6ee4ee3a822197bb26db
 https://fn02.20251117.top/api/v1/client/subscribe?token=e01e697586dfa5bc59bcae0294d60fbd
 https://fn02.20251117.top/api/v1/client/subscribe?token=99192a9426351ee50dd6fb9bd2e7d0f1
 https://fn02.20251117.top/api/v1/client/subscribe?token=7c040b4bae138683deebe8ccdd3fb94e
