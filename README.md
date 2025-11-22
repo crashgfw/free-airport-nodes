@@ -38,21 +38,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.20251117.top/api/v1/client/subscribe?token=b3ded79258b3eb3c3864dbe95d4eb57b
-https://fn02.20251117.top/api/v1/client/subscribe?token=4ca461dbae4f178270fa3c8a806584a4
-https://fn02.20251117.top/api/v1/client/subscribe?token=ebce8d440b8221bf572b8d590c09a87c
-https://fn02.20251117.top/api/v1/client/subscribe?token=898dd6321a9ae92efc52307878d578c1
-https://fn02.20251117.top/api/v1/client/subscribe?token=9046e7bb61bc5c9fba5da6a9dd62a236
-https://fn02.20251117.top/api/v1/client/subscribe?token=be2e253f48aef7d4d836678fe51d7955
-https://fn02.20251117.top/api/v1/client/subscribe?token=e800cf2a73999efbbdc9ff2de97c5c16
-https://fn02.20251117.top/api/v1/client/subscribe?token=598ffe7ab9b4de7e1dcda92aa2d1259a
-https://fn02.20251117.top/api/v1/client/subscribe?token=de3372d461b8328c38c644f6671501ef
-https://fn02.20251117.top/api/v1/client/subscribe?token=209a4c3475a28833265e316676848aec
-https://fn02.20251117.top/api/v1/client/subscribe?token=26d867a0aa7c2b5758196ebb8295e336
-https://fn02.20251117.top/api/v1/client/subscribe?token=aaf43cb1621622fe8e41f972f6339a8f
-https://fn02.20251117.top/api/v1/client/subscribe?token=7b0f930baee2202a58a481d368e91fbc
-https://fn02.20251117.top/api/v1/client/subscribe?token=ca869d206d289b528dae88d103ac2205
-https://fn02.20251117.top/api/v1/client/subscribe?token=992390748e0e9030e8accbd54fea4d4c
+https://fn02.20251117.top/api/v1/client/subscribe?token=918b3f978bcfad82370dfefdb371fda9
+https://fn02.20251117.top/api/v1/client/subscribe?token=b1f34921b02cdc828fbe0f1788d4e11b
+https://fn02.20251117.top/api/v1/client/subscribe?token=fcd40eda0a2f7ddf7f8ded8a846a6b7f
+https://fn02.20251117.top/api/v1/client/subscribe?token=d4f87f3c3fcacf30c48434b60f0742ec
+https://fn02.20251117.top/api/v1/client/subscribe?token=a4d3e3c74febba3b7019c7a622b97105
+https://fn02.20251117.top/api/v1/client/subscribe?token=43cdd4417457d61e1139331a7c6f8fcd
+https://fn02.20251117.top/api/v1/client/subscribe?token=33cabe861c5abb9db7e802658176c57d
+https://fn02.20251117.top/api/v1/client/subscribe?token=7a604956a12f3dd04fa71efe7e8b6e51
+https://fn02.20251117.top/api/v1/client/subscribe?token=309407f054f74572984ce5517d6eef0a
+https://fn02.20251117.top/api/v1/client/subscribe?token=e87390ef5ceb09fe1ef2fb1a9dce50de
+https://fn02.20251117.top/api/v1/client/subscribe?token=4cba8262d7c3f518dd95b664aa63a251
+https://fn02.20251117.top/api/v1/client/subscribe?token=5c9fbcf8545421ae1ae85b88208b417a
+https://fn02.20251117.top/api/v1/client/subscribe?token=6c82bb52e55fac4cf88d870aa74053ce
+https://fn02.20251117.top/api/v1/client/subscribe?token=1daeb2f07449bcb1871be7c12a6e588c
+https://fn02.20251117.top/api/v1/client/subscribe?token=5eac6f9d9cdb4289d3966c1ee117d85e
 
 ```
 
