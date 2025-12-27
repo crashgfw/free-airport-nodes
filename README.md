@@ -1,4 +1,4 @@
-# 2025 年 12 月 26 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2025 年 12 月 27 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://fk01.20251109.top/1" target="_blank">稳联云</a>
 
@@ -31,7 +31,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 12 月 26 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 12 月 27 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -39,20 +39,20 @@
 # V2ray订阅链接：
 
 https://fn03.20251117.top/s/7de82819607fcee611e36cabbd027e93
-https://fn03.20251117.top/s/16746bb48704ab3a5a15cf7e5c897416
+https://fn03.20251117.top/s/e8867f341bb43ce7378808c60aba68fb
 https://fn03.20251117.top/s/b3e6b2f94817fb26b87ab0088c624d51
-https://fn03.20251117.top/s/b586fe341c4abcd149a868d0d3ca35a2
+https://fn03.20251117.top/s/f5e2ce9a06ba29d35a5d2c699678e38e
 https://fn03.20251117.top/s/1cd017d8707aa18968754984408417ce
 https://fn03.20251117.top/s/d422aa630702c0a0a8e1d2a46551019d
-https://fn03.20251117.top/s/741701094b8eee0bdc2af9836317763f
+https://fn03.20251117.top/s/6a5353a13e7a2ed13c35dcd0b6afbb80
 https://fn03.20251117.top/s/ef342b0f640182203b916f77749e2da4
 https://fn03.20251117.top/s/89cc25f29a6850a4f1425354feb362ef
 https://fn03.20251117.top/s/6dd57c84ab19a7e6727a9116b0af4cfa
 https://fn03.20251117.top/s/cce043407e7a6027cd7ee6770642a902
 https://fn03.20251117.top/s/c217997283c6669267aeb48541fd8891
-https://fn03.20251117.top/s/e0c3919987c29f6e7f1102115e4c1820
+https://fn03.20251117.top/s/4f6ebef31a2be5c851585041de39d289
 https://fn03.20251117.top/s/88dec7cf6ad75ec4f6d8e7d19bdf31b0
-https://fn03.20251117.top/s/cc5f3ddf0ac30e42e977a78d4e68f1b4
+https://fn03.20251117.top/s/a1d7456b42105771fefc94b91162f91d
 https://fn03.20251117.top/s/e20068525d42358af69dec12dbef2c4f
 
 ```
@@ -78,4 +78,4 @@ https://fn03.20251117.top/s/e20068525d42358af69dec12dbef2c4f
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 12 月 26 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 12 月 27 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
