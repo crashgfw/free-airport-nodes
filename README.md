@@ -1,4 +1,4 @@
-# 2025 年 12 月 27 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2025 年 12 月 28 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://fk01.20251109.top/1" target="_blank">稳联云</a>
 
@@ -31,29 +31,29 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2025 年 12 月 27 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2025 年 12 月 28 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn03.20251117.top/s/3ec4fe79f2716207160ebda3b0c23b9c
-https://fn03.20251117.top/s/cad1482ac88cb16f247369d181cc4e6c
-https://fn03.20251117.top/s/1d152281bf8f43a40449add0270b986d
+https://fn03.20251117.top/s/9b2a914e2e7bb47177053a1aba8fcb6b
+https://fn03.20251117.top/s/eb52a48234c22e3f354ba60e45149c45
+https://fn03.20251117.top/s/547fff16643b44a0ae37451d84829170
 https://fn03.20251117.top/s/961e2a7e30839d3d28f397c39cd3a150
-https://fn03.20251117.top/s/68dac8ec5acea4c48b0fff2eb0358cfc
-https://fn03.20251117.top/s/8c7a53ceb95b03e2e47fa6f43177afe5
-https://fn03.20251117.top/s/6a5353a13e7a2ed13c35dcd0b6afbb80
+https://fn03.20251117.top/s/08a3d7ab4696cdc62e7e7ac1c1fddf92
+https://fn03.20251117.top/s/85a71fbbf419c3f8e19894f9babbd764
+https://fn03.20251117.top/s/9accd25adabbea1351c753046090d898
 https://fn03.20251117.top/s/f0137d5feef6d1f0793a98e77f02220d
-https://fn03.20251117.top/s/9f0f8f019996cc8464fef47f76b86384
-https://fn03.20251117.top/s/6deac19b3475cfbdd3d7d372a74c1ec3
+https://fn03.20251117.top/s/8c1786668981e6dfb45808ea2f0f1592
+https://fn03.20251117.top/s/d6af264213477c8db05919ba5db39fb3
 https://fn03.20251117.top/s/4d8ee74856c6d71aba097fcb73457100
-https://fn03.20251117.top/s/8c0689e781e448e8d2a72b5b47b4b47f
-https://fn03.20251117.top/s/7668483a48d828789d15bf632dc92f57
-https://fn03.20251117.top/s/af348a7836dc67ed19c5ebcf17229d54
-https://fn03.20251117.top/s/700260855daa4430749decb94c7e3731
-https://fn03.20251117.top/s/d31ea7c52f90a0280f4626da1b9d39ff
+https://fn03.20251117.top/s/3f93f61d17a98df6c72800fcb3016b6d
+https://fn03.20251117.top/s/61b451f8cc3cea912aa23b400368e487
+https://fn03.20251117.top/s/dfab0621b08c6528323ccf786127cba9
+https://fn03.20251117.top/s/27b09d63be108bcc8a568c39364528c4
+https://fn03.20251117.top/s/b58f0307d834d4ee6c086688338f67ae
 
 ```
 
@@ -78,4 +78,4 @@ https://fn03.20251117.top/s/d31ea7c52f90a0280f4626da1b9d39ff
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2025 年 12 月 27 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2025 年 12 月 28 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
