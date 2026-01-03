@@ -20,11 +20,11 @@
 
 ## **获取机场订阅或节点**
 
-以下是 2024 年优选的稳定机场和性价比机场供选择，可以从机场获取机场订阅或节点：
+以下是 2026 年优选的稳定机场和性价比机场供选择，可以从机场获取机场订阅或节点：
 
-[2025 性价比 V2ray/Vmess 机场推荐](https://v2raya.net/recommen/v2ray_node_recommendations.html)
+[2026 性价比 V2ray/Vmess 机场推荐](https://v2raya.net/recommen/v2ray_node_recommendations.html)
 
-[2025 年稳定翻墙机场推荐](https://v2raya.net/recommendation/)
+[2026 年稳定翻墙机场推荐](https://v2raya.net/recommendation/)
 
 > 通常在“仪表盘 -> 一键订阅”可以获取到订阅 url。
 
