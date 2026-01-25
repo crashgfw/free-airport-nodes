@@ -39,7 +39,7 @@
 # V2ray订阅链接：
 
 https://fn10.sp1230.top/s/a5a8f8cb1faa67d3f1d6c32a9fd4c3a8
-https://fn10.sp1230.top/s/87714455948a85c124f836b1fd8218af
+https://fn10.sp1230.top/s/a192c6bc50a9efa5ee0300c72c84b957
 https://fn10.sp1230.top/s/41e6b243cc8125d96405b48aeb4de890
 https://fn10.sp1230.top/s/6fbf8e252580a4ec0c19255ef9ad2745
 https://fn10.sp1230.top/s/16c7cbe37f777f6c4cf18a6db5595187
