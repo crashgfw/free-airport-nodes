@@ -1,4 +1,4 @@
-# 2026 年 02 月 11 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 02 月 12 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -31,7 +31,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 02 月 11 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 02 月 12 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -43,16 +43,16 @@ https://fn10.sp1230.top/s/326ccbfec70845b08055208914981d79
 https://fn10.sp1230.top/s/d159ebddde831f96800d709aa179de51
 https://fn10.sp1230.top/s/1534afa300e25cbed70eb182a32ea9bb
 https://fn10.sp1230.top/s/65c521100a6bbd0633b295b953b75bff
-https://fn10.sp1230.top/s/065d13663f07f96e14141992649b6dbd
-https://fn10.sp1230.top/s/384f9054ec6f0468bbe90bbaac0c2d62
+https://fn10.sp1230.top/s/1a3ddc849c48d339025a0e955bdce2c9
+https://fn10.sp1230.top/s/b8d3b0ae98f31a8de75c69e5dfdd838a
 https://fn10.sp1230.top/s/f905d00d5bed8301af69397c4ef70b97
-https://fn10.sp1230.top/s/0b009e01f58410928a30049d3bf49795
-https://fn10.sp1230.top/s/d91b0da39b95658dde4aef9cf5f31b62
-https://fn10.sp1230.top/s/cea375a2d1007ba135476377fee109a2
-https://fn10.sp1230.top/s/300ff7d70a536b4765f758c5dca06a6c
-https://fn10.sp1230.top/s/954589c7b24c37b8f251ef943798f08a
-https://fn10.sp1230.top/s/bb3ee7e509e7113be567bdef52c525cd
-https://fn10.sp1230.top/s/f4cfcee092e80362f125c0eac11c4c14
+https://fn10.sp1230.top/s/8c30d56f6683bb333745ce1c149b64f5
+https://fn10.sp1230.top/s/6ae2f0dbe2a8779a20dd77d3783cfda2
+https://fn10.sp1230.top/s/ca3371d15c6c76b2ce036810ef6e128d
+https://fn10.sp1230.top/s/8a6bb7f1b22831aba7dfe3c09e802fa4
+https://fn10.sp1230.top/s/9e9cb958eee7ca77a054555256bf97e0
+https://fn10.sp1230.top/s/b39e1aa3dff67e7fad860e6adc9c1000
+https://fn10.sp1230.top/s/1c81714be02cfb0c9559e61f7acf907d
 https://fn10.sp1230.top/s/5e49aa47fb3bdc340305135199f68a6c
 
 ```
@@ -78,4 +78,4 @@ https://fn10.sp1230.top/s/5e49aa47fb3bdc340305135199f68a6c
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 02 月 11 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 02 月 12 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
