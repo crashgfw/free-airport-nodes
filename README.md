@@ -1,4 +1,4 @@
-# 2026 年 02 月 13 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 02 月 14 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -31,15 +31,15 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 02 月 13 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 02 月 14 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp1230.top/s/cab51cc9b84c77b1b4670c58ffc74619
-https://fn10.sp1230.top/s/935060c88fa9a27ff178c14edaa36fc3
+https://fn10.sp1230.top/s/ed6921a6bf69a43864550b44a2b90eb0
+https://fn10.sp1230.top/s/39c55c6dd7f09b8086a643951cba3d8f
 https://fn10.sp1230.top/s/b58182fb00241a3376b77dc2187324a4
 https://fn10.sp1230.top/s/1b91d5feb129047ccf414572cfa3b1fe
 https://fn10.sp1230.top/s/796c80905b2bbeef661a45bcb6687277
@@ -78,4 +78,4 @@ https://fn10.sp1230.top/s/8d8e99898568220f6e203be6f9428f37
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 02 月 13 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 02 月 14 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
