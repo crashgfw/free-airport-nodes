@@ -38,10 +38,10 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp1230.top/s/3a6c7f728f4cba65654753730f6fde62
+https://fn10.sp1230.top/s/83efc76be6ba19cd4dee0a137185fdab
 https://fn10.sp1230.top/s/7fe466967b4ea80acfbc400afb6e0235
 https://fn10.sp1230.top/s/7e967d1e5066aacb975693f2a23b48b3
-https://fn10.sp1230.top/s/9d0326eb7bbf778d610088c196d8b981
+https://fn10.sp1230.top/s/8987a01b26d21adb133276690f757789
 https://fn10.sp1230.top/s/1fe298efd1f6497aaad23bbbbce7866f
 https://fn10.sp1230.top/s/356d3da62935cf836e9933daf6815303
 https://fn10.sp1230.top/s/d5fa8baf343e4eba70ad8ae67485fe45
