@@ -39,7 +39,7 @@
 # V2ray订阅链接：
 
 https://fn02.sp0303.xyz/s/c6cba41caafcfe2ae9d12db371fd21af
-https://fn02.sp0303.xyz/s/2432618a86798cb840748f2745824c83
+https://fn02.sp0303.xyz/s/c5297d153f020209baa47fe013526fc2
 https://fn02.sp0303.xyz/s/449193082423824192fc6fb7a5e0eb7b
 https://fn02.sp0303.xyz/s/2066cc0bf0ebceb1ad8ca49fe1bd71ee
 https://fn02.sp0303.xyz/s/2ed1bc7ac5c9fc11a4d7939e7d24afc9
