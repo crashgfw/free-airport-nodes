@@ -38,22 +38,22 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn04.sp0303.xyz/s/499acf27dd9d008a9ecb01ee2c00f777
-https://fn04.sp0303.xyz/s/54db0a9436c875966be426a16aaff065
-https://fn04.sp0303.xyz/s/a7ac14095cd204a036446803caf1a3ef
-https://fn04.sp0303.xyz/s/d196b986d511f012f3ff514089fdc121
-https://fn04.sp0303.xyz/s/1cc76269e8718047f76304624bc3a543
-https://fn04.sp0303.xyz/s/b5aff8242b892fb6c505421703566130
-https://fn04.sp0303.xyz/s/f014b3ed4ce714e3f9793c256c2755b9
-https://fn04.sp0303.xyz/s/9126091c998c253f1927fbee5e33213a
-https://fn04.sp0303.xyz/s/d8d84472903091aa2d1fbc109b3ed83e
-https://fn04.sp0303.xyz/s/3ad244d330c119c3dd276551ac3b47e8
-https://fn04.sp0303.xyz/s/92a5d1fdcee1e5316ee97b1ed39b844b
-https://fn04.sp0303.xyz/s/a1fcbcc5660d8e1fb53fdd853957fdd1
-https://fn04.sp0303.xyz/s/e3d5e11e697c5c6ecfd539bbbb5f1d14
-https://fn04.sp0303.xyz/s/1db209dc199d988dff85d5e6f39eb731
-https://fn04.sp0303.xyz/s/3b95c59ac9248a9f9329c37eb3ce6c5f
-https://fn04.sp0303.xyz/s/f95a3ab27ba050e4bf45e857f97112be
+https://fn06.sp0303.xyz/s/499acf27dd9d008a9ecb01ee2c00f777
+https://fn06.sp0303.xyz/s/54db0a9436c875966be426a16aaff065
+https://fn06.sp0303.xyz/s/a7ac14095cd204a036446803caf1a3ef
+https://fn06.sp0303.xyz/s/d196b986d511f012f3ff514089fdc121
+https://fn06.sp0303.xyz/s/1cc76269e8718047f76304624bc3a543
+https://fn06.sp0303.xyz/s/b5aff8242b892fb6c505421703566130
+https://fn06.sp0303.xyz/s/f014b3ed4ce714e3f9793c256c2755b9
+https://fn06.sp0303.xyz/s/9126091c998c253f1927fbee5e33213a
+https://fn06.sp0303.xyz/s/d8d84472903091aa2d1fbc109b3ed83e
+https://fn06.sp0303.xyz/s/3ad244d330c119c3dd276551ac3b47e8
+https://fn06.sp0303.xyz/s/92a5d1fdcee1e5316ee97b1ed39b844b
+https://fn06.sp0303.xyz/s/a1fcbcc5660d8e1fb53fdd853957fdd1
+https://fn06.sp0303.xyz/s/e3d5e11e697c5c6ecfd539bbbb5f1d14
+https://fn06.sp0303.xyz/s/1db209dc199d988dff85d5e6f39eb731
+https://fn06.sp0303.xyz/s/3b95c59ac9248a9f9329c37eb3ce6c5f
+https://fn06.sp0303.xyz/s/f95a3ab27ba050e4bf45e857f97112be
 
 ```
 
