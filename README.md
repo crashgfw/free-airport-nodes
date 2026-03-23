@@ -1,4 +1,4 @@
-# 2026 年 03 月 22 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 03 月 23 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -31,7 +31,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 03 月 22 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 03 月 23 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -39,7 +39,7 @@
 # V2ray订阅链接：
 
 https://fn08.sp0303.xyz/nodes/3cf45e81f897b37748bb21a94c712920
-https://fn08.sp0303.xyz/nodes/5d75851bb0ea5b39575ecb4ad00fa4d4
+https://fn08.sp0303.xyz/nodes/fd55ca07463e592d71be7ad2ec52dd30
 https://fn08.sp0303.xyz/nodes/3bc516fcdd55a53ce6322ce02700a005
 https://fn08.sp0303.xyz/nodes/af238eb2d689c51fc4a2fa57505484c3
 https://fn08.sp0303.xyz/nodes/e384285ae35e8ae7e4862fdaeb5f9b08
@@ -48,11 +48,11 @@ https://fn08.sp0303.xyz/nodes/46933af48fe4360ae1be8d49d39db0cc
 https://fn08.sp0303.xyz/nodes/b83120c1ec3ce5dea446de35d2a6e7c8
 https://fn08.sp0303.xyz/nodes/f61850b2c4da729ffaac78c8f3d5d984
 https://fn08.sp0303.xyz/nodes/d4fd10f7e87ffef05f92f79020aba618
-https://fn08.sp0303.xyz/nodes/437e612536d270d2c65daccbb5a8616a
-https://fn08.sp0303.xyz/nodes/76248c2efabb5e0c723aeccc552baab9
+https://fn08.sp0303.xyz/nodes/cf87574041f1a4a11ebc534969f6f141
+https://fn08.sp0303.xyz/nodes/c52ed4cc195cbbf44dbfc9acfb4640a2
 https://fn08.sp0303.xyz/nodes/0c076134dbc07f20ded29c87356f314f
 https://fn08.sp0303.xyz/nodes/ead4879c1122cb67f44fc5c5603d2468
-https://fn08.sp0303.xyz/nodes/2d6ab089d422c34f08ffeb23e7365524
+https://fn08.sp0303.xyz/nodes/02eea110a85b4e29e979267127262c48
 
 ```
 
@@ -77,4 +77,4 @@ https://fn08.sp0303.xyz/nodes/2d6ab089d422c34f08ffeb23e7365524
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 03 月 22 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 03 月 23 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
