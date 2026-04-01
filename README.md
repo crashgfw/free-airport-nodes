@@ -52,7 +52,7 @@ https://fn08.sp0303.xyz/nodes/5da293efb627c1d44a1f6491e21dff0e
 https://fn08.sp0303.xyz/nodes/1f73ec4deb242628f262b3a888585579
 https://fn08.sp0303.xyz/nodes/3b44882cd8a0c4aaa83de164a9962c50
 https://fn08.sp0303.xyz/nodes/fc2d1c945fddc6b5daf3804358ed9445
-https://fn08.sp0303.xyz/nodes/1ea4fb5c507e8c9e14a8593af56c0177
+https://fn08.sp0303.xyz/nodes/b3f86caf1193e785962807f5c1e5d3b0
 
 ```
 
