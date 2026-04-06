@@ -40,7 +40,7 @@
 
 https://fn08.sp0303.xyz/nodes/39c1d421667070f7199abfe66ea22c6f
 https://fn08.sp0303.xyz/nodes/c73e2a9e405864cc17f01af62d82f16b
-https://fn08.sp0303.xyz/nodes/73b686e0fdf10e352930dfde75dc098b
+https://fn08.sp0303.xyz/nodes/920da60336038de13da7123a0ac69272
 https://fn08.sp0303.xyz/nodes/86fa1f36fd441437065772751151ea7f
 https://fn08.sp0303.xyz/nodes/600b850d82f08928abcd4cc3844f4a56
 https://fn08.sp0303.xyz/nodes/bd2c098312b600fc20acc07f4361ebd4
