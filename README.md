@@ -39,10 +39,10 @@
 # V2ray订阅链接：
 
 https://fn08.sp0303.xyz/nodes/73efb8390065503ab56c70d29d289551
-https://fn08.sp0303.xyz/nodes/66918383ea0a223fea6dffb4b66a0164
+https://fn08.sp0303.xyz/nodes/979d88ba09708f1132b84425e215c5aa
 https://fn08.sp0303.xyz/nodes/6b7b5a1a4152f1c4d67deb5ba5a9068f
 https://fn08.sp0303.xyz/nodes/dedcb1d88fb4bef19caa8d5920f71dd9
-https://fn08.sp0303.xyz/nodes/8c607f8874160aee530711eb70b19564
+https://fn08.sp0303.xyz/nodes/38a25bf1f17d33ed55e4fe7b38e4d960
 https://fn08.sp0303.xyz/nodes/8e84a57d7cffb5cb2050746919fdbab2
 https://fn08.sp0303.xyz/nodes/e4a584d2a465293ee62f9b649db2e2ab
 https://fn08.sp0303.xyz/nodes/eb38c4d18614077cf500394bf5d5c1a6
