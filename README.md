@@ -40,9 +40,9 @@
 
 https://fn08.sp0303.xyz/nodes/8fa9d23c986da9834ba064e76185daa8
 https://fn08.sp0303.xyz/nodes/cf31ba086887cb80d9ad6f437ebc0504
-https://fn08.sp0303.xyz/nodes/92584882bfe5131efbec2d8617439b54
-https://fn08.sp0303.xyz/nodes/3b93103ecbc226b18b204193b5b9ea84
-https://fn08.sp0303.xyz/nodes/20d2ec41b565dceb11cac6670a7b5951
+https://fn08.sp0303.xyz/nodes/6a7626128eb5d1867ed680c112bf186e
+https://fn08.sp0303.xyz/nodes/48450d66197e0b7a44fc4235579d45dd
+https://fn08.sp0303.xyz/nodes/ccd4ca113820af40a21fe09a91914f87
 https://fn08.sp0303.xyz/nodes/6672639e44ac98faffb5f84f21d98cc2
 https://fn08.sp0303.xyz/nodes/bd9987ffe714930c6ffa1e6d0b97aea8
 https://fn08.sp0303.xyz/nodes/e0ebfcc5a17d41c4b8343ae47708ceca
@@ -50,8 +50,8 @@ https://fn08.sp0303.xyz/nodes/025a2d041c1d6f9dbfb272b0a322d0b3
 https://fn08.sp0303.xyz/nodes/3435fc03e6023b0dcf56a4f1664c032f
 https://fn08.sp0303.xyz/nodes/989c96d6841cf90b0399a719868af43e
 https://fn08.sp0303.xyz/nodes/f0210a6d97dd2b2969940f7cb614108f
-https://fn08.sp0303.xyz/nodes/d9bb03fbfed9925bcb523b44062b81b1
-https://fn08.sp0303.xyz/nodes/5e52f0fdaf7078e00e2f36f3627afd37
+https://fn08.sp0303.xyz/nodes/22826a758396f81a419949bc0b9c6e68
+https://fn08.sp0303.xyz/nodes/d6d7ce92ac73e6630dd566184f56825c
 https://fn08.sp0303.xyz/nodes/d741317f45b7e1ec49c23e920c4698df
 
 ```
