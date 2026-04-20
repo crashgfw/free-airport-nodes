@@ -1,4 +1,4 @@
-# 2026 年 04 月 19 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 04 月 20 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,7 +29,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 04 月 19 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 04 月 20 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -38,11 +38,11 @@
 
 https://fn08.sp0303.xyz/nodes/2f79dd69de8f3331618d3dd7000218be
 https://fn08.sp0303.xyz/nodes/6487eba17b8053e0332d6c785dc6dd21
-https://fn08.sp0303.xyz/nodes/9be39bd60cf07ee26c511ba7b290e286
+https://fn08.sp0303.xyz/nodes/98c055bcfcffd6f589ac6f40d542b1eb
 https://fn08.sp0303.xyz/nodes/a0bf5923b84c1924b5510ddfd72de1f6
 https://fn08.sp0303.xyz/nodes/d0ddfe04bf990b52d16a6145364ab425
-https://fn08.sp0303.xyz/nodes/e2a34caf8778b3b0ab5dcdf2ccab1937
-https://fn08.sp0303.xyz/nodes/b63fa60e7592ffe7e0bf68a017dd1484
+https://fn08.sp0303.xyz/nodes/674e6ce300e13abb4129da9376315888
+https://fn08.sp0303.xyz/nodes/a47846cbc46d415a2610a30cbdfa36f9
 https://fn08.sp0303.xyz/nodes/7f6b42c89bddbd72c9a347ae71df3651
 https://fn08.sp0303.xyz/nodes/44075e9330ddff8aa456ca388ca68771
 https://fn08.sp0303.xyz/nodes/a08ec62e3bd8dcfd2221c8b4f5e3bd32
@@ -50,8 +50,8 @@ https://fn08.sp0303.xyz/nodes/687b92034689721a138fe58c6c80a2b5
 https://fn08.sp0303.xyz/nodes/ad52a63ae2ea169b15200ac8d88558e4
 https://fn08.sp0303.xyz/nodes/45b3dbb6f50426201f1f6f01379c9ce1
 https://fn08.sp0303.xyz/nodes/e49a2be7700d33272912b20757a7a212
-https://fn08.sp0303.xyz/nodes/eba37b61e52d27f448d716692fe6a2de
-https://fn08.sp0303.xyz/nodes/8cc4a9137d38c28a1b424c591326cb98
+https://fn08.sp0303.xyz/nodes/b45e63c3311b29f55d5de66259c99b72
+https://fn08.sp0303.xyz/nodes/f19fdfa9993c66ed796e1e5eb96867cb
 
 ```
 
@@ -76,4 +76,4 @@ https://fn08.sp0303.xyz/nodes/8cc4a9137d38c28a1b424c591326cb98
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 04 月 19 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 04 月 20 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
