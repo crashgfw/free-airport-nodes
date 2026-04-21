@@ -1,4 +1,4 @@
-# 2026 年 04 月 20 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 04 月 21 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,29 +29,29 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 04 月 20 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 04 月 21 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn08.sp0303.xyz/nodes/44feaf709e4cc81763a706dbb0ad338e
-https://fn08.sp0303.xyz/nodes/7cfc3a7d1e38dc349cefa2639e4b6d85
+https://fn08.sp0303.xyz/nodes/61d06659a665127fc10cb74c644ac5a4
+https://fn08.sp0303.xyz/nodes/ef8f6d6c55f9879d9eaaa46037be4048
 https://fn08.sp0303.xyz/nodes/08ec7fc1372c8ae1be92bba03693fe97
 https://fn08.sp0303.xyz/nodes/c1bae6945ed1bfb915fc985866fc7183
 https://fn08.sp0303.xyz/nodes/64980d8a262a02e90f69ec44ea4822f7
 https://fn08.sp0303.xyz/nodes/40b69a1cccdfba44385e197fd5ffd8dd
 https://fn08.sp0303.xyz/nodes/68f587a52cd47b9d2bce2309bcedbeda
-https://fn08.sp0303.xyz/nodes/1b11ec0619e8744da9097fd5a821954c
+https://fn08.sp0303.xyz/nodes/e847f955c600a0134b8dcf0cb64a8f1a
 https://fn08.sp0303.xyz/nodes/495f9307039108443bedd1e567b89300
 https://fn08.sp0303.xyz/nodes/d9f8542201c2a3cfe4d67d018c7913f8
 https://fn08.sp0303.xyz/nodes/5f82f2dd7de198ec244c2d632bfa3802
-https://fn08.sp0303.xyz/nodes/a3ac17e9470d646fa4f8e5f7924b2d3e
+https://fn08.sp0303.xyz/nodes/ae29112a5e4f60fd85a24c31ff97f788
 https://fn08.sp0303.xyz/nodes/800bbc06e9dbca7e3244924ce40228cd
 https://fn08.sp0303.xyz/nodes/90345d2dcc86f418268150741874de0a
 https://fn08.sp0303.xyz/nodes/6cedeea394573a7dfc95256ec273ecd6
-https://fn08.sp0303.xyz/nodes/e67429f996d05431be8e333ce46f6733
+https://fn08.sp0303.xyz/nodes/4d872af224ae8bcb345df332dd9bd313
 https://fn08.sp0303.xyz/nodes/e393f5053ff462203f83e5a46716ca0b
 
 ```
@@ -77,4 +77,4 @@ https://fn08.sp0303.xyz/nodes/e393f5053ff462203f83e5a46716ca0b
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 04 月 20 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 04 月 21 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
