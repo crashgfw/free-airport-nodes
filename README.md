@@ -44,7 +44,7 @@ https://fn08.sp0303.xyz/nodes/a3dc2625a240ccb47735289dc06b6f68
 https://fn08.sp0303.xyz/nodes/30dd4429e0df362a3e487d3d6912e7f5
 https://fn08.sp0303.xyz/nodes/8d3f92d17c5703a924a73e6fbf2b4be0
 https://fn08.sp0303.xyz/nodes/544c73f21feff5bf9f47bbc088739c80
-https://fn08.sp0303.xyz/nodes/10f1b1c4aec03c420dfc6b0ff87c5083
+https://fn08.sp0303.xyz/nodes/09c7b3227f4cfacdd2f2124bf7434527
 https://fn08.sp0303.xyz/nodes/170d39445c986e4df612e50facec598d
 https://fn08.sp0303.xyz/nodes/dac3054b546db67ec803a479ddcd1a46
 https://fn08.sp0303.xyz/nodes/94d5424f98d0bd8c13bb45997e9218a6
