@@ -1,4 +1,4 @@
-# 2026 年 05 月 10 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 05 月 11 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,17 +29,17 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 05 月 10 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 05 月 11 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn08.sp0502.xyz/nodes/0c15dd6a6bd0cae7c2747c3423298753
-https://fn08.sp0502.xyz/nodes/60c957fcf3270d64e1adc7b82668a897
-https://fn08.sp0502.xyz/nodes/877e9fe2209b847d597836cd27894beb
-https://fn08.sp0502.xyz/nodes/c7ce2d18e334b964bddf3c63b24de193
+https://fn08.sp0502.xyz/nodes/d1181bfc9381c15f78e0c0fb1be6d0fc
+https://fn08.sp0502.xyz/nodes/9248a32c34267bbcfc6014b414f8056e
+https://fn08.sp0502.xyz/nodes/3c46a54ba90cb791cf39359cc695c471
+https://fn08.sp0502.xyz/nodes/9edd78387e851743c73f21d6318b1560
 https://fn08.sp0502.xyz/nodes/87e9c815916a24ad722a321da327ff88
 https://fn08.sp0502.xyz/nodes/ba9dc67e06eff1c2500fd37502a7d1c1
 https://fn08.sp0502.xyz/nodes/57d5d448f20848dc54211af079b8cefa
@@ -52,7 +52,7 @@ https://fn08.sp0502.xyz/nodes/941c9d24d3c866b7616b12265ab2e24d
 https://fn08.sp0502.xyz/nodes/efe550224af6b6d0fdd920145c5e2657
 https://fn08.sp0502.xyz/nodes/5c5f467c99b9b9adbf2d209b92f6e225
 https://fn08.sp0502.xyz/nodes/1f0e619e8e6b3e13cc6db682c536b27b
-https://fn08.sp0502.xyz/nodes/82d8dca4383c271a5dc4041bb12e796c
+https://fn08.sp0502.xyz/nodes/da627f9019c238eb4925a8a83ac16d50
 
 ```
 
@@ -77,4 +77,4 @@ https://fn08.sp0502.xyz/nodes/82d8dca4383c271a5dc4041bb12e796c
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 05 月 10 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 05 月 11 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
