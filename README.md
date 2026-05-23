@@ -40,7 +40,7 @@ https://fn09.sp0502.xyz/nodes/2f3e0717678e0eff0b704ce71f98fbb5
 https://fn09.sp0502.xyz/nodes/ae0b8062bfaa3f309e17bd75fffdf740
 https://fn09.sp0502.xyz/nodes/22b378476bce443f6107bc42ba9c9a8e
 https://fn09.sp0502.xyz/nodes/ee2ec803c6dac71ad6818655d1f6ea1a
-https://fn09.sp0502.xyz/nodes/f17929a14a6784429102e20f62bc031c
+https://fn09.sp0502.xyz/nodes/bf89d17b4d97ad15330cb12601847848
 https://fn09.sp0502.xyz/nodes/cb622b402a7d5cd82464811cc2e094e1
 https://fn09.sp0502.xyz/nodes/7ecf7cc42bc63874298a3b258b353e8b
 https://fn09.sp0502.xyz/nodes/920f1336a5e414ad135e4a8e78eef99a
@@ -52,7 +52,7 @@ https://fn09.sp0502.xyz/nodes/46362c4db5ad583876bc0a708d130668
 https://fn09.sp0502.xyz/nodes/05b56919c8fa20e2833717caa7ee4f88
 https://fn09.sp0502.xyz/nodes/aed6a9d616c9b97b3ec298b746d71c63
 https://fn09.sp0502.xyz/nodes/898656b319865fbb71b55d518d32b0c8
-https://fn09.sp0502.xyz/nodes/3baf6854fd50cc2f06e4f6ba6bb05a84
+https://fn09.sp0502.xyz/nodes/441df121d8499f0f582f2b130b086127
 
 ```
 
