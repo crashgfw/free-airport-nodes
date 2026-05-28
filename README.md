@@ -40,7 +40,7 @@ https://fn09.sp0502.xyz/nodes/676a8f6b1e22087be14240eb491e8197
 https://fn09.sp0502.xyz/nodes/cec77e6f099f31884980342fdffbc2f6
 https://fn09.sp0502.xyz/nodes/b3ebe4fec954226ba75a69947edcd4c7
 https://fn09.sp0502.xyz/nodes/704c31e02b79f1527acca6c1c62ad4d4
-https://fn09.sp0502.xyz/nodes/7e4807cadbe1ec801a7bd9e3de787941
+https://fn09.sp0502.xyz/nodes/e849655d9349341a8d40bf990f7cb551
 https://fn09.sp0502.xyz/nodes/d0ebd9351305c9353e948e2ce2559091
 https://fn09.sp0502.xyz/nodes/75298352b19509e80fb8e0b5a43d9bde
 https://fn09.sp0502.xyz/nodes/39af30227395e49e0902c0b26317a584
