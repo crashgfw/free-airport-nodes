@@ -1,4 +1,4 @@
-# 2026 年 05 月 30 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 05 月 31 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,16 +29,16 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 05 月 30 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 05 月 31 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn09.sp0502.xyz/nodes/d7e2dff82876a0fb76b3f68454aeaffd
+https://fn09.sp0502.xyz/nodes/c983ca1709b358e61ed9b609956f15a3
 https://fn09.sp0502.xyz/nodes/1c3c16177701c68930fcf1e383a37409
-https://fn09.sp0502.xyz/nodes/231d33ba415b0a5116c272ffe097e369
+https://fn09.sp0502.xyz/nodes/bf8a0d88edc00dfdeae761c5b4156461
 https://fn09.sp0502.xyz/nodes/018b1f0f949f0d1ff0e893b58e433f84
 https://fn09.sp0502.xyz/nodes/559d82edd1c9dc403cd96a0dcfa759ca
 https://fn09.sp0502.xyz/nodes/23a0a3e331edf06fdbc6a4083ea3af59
@@ -48,7 +48,7 @@ https://fn09.sp0502.xyz/nodes/014b819f391dbd58a0ca1bf59b83f81c
 https://fn09.sp0502.xyz/nodes/5383e5a8c1eaa43f25f3b6bf0d51969b
 https://fn09.sp0502.xyz/nodes/6c6f6c3f05eec6695623c257e7f94f79
 https://fn09.sp0502.xyz/nodes/5c3ccf8cb647ba6e6e57d07cc290f48e
-https://fn09.sp0502.xyz/nodes/00cf2938906410fe1553277bbe1039e9
+https://fn09.sp0502.xyz/nodes/69ce530a0d82d53248ab6466cddf3940
 https://fn09.sp0502.xyz/nodes/efde1f6815dee19d001a83e574f35adc
 https://fn09.sp0502.xyz/nodes/b8e264a6c48086c43823e82e3bfb87d2
 https://fn09.sp0502.xyz/nodes/4244d1fc24f36aa61f4211085ec8e04c
@@ -77,4 +77,4 @@ https://fn09.sp0502.xyz/nodes/0467c6e421b3dad991c2a1be5de7d33c
 
 **如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
 
-以上介绍了2026 年 05 月 30 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 05 月 31 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
