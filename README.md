@@ -52,7 +52,7 @@ https://fn09.sp0502.xyz/nodes/84f1e5d598d3af5106cc705e5db5685c
 https://fn09.sp0502.xyz/nodes/b15606e9f49cef3d0e60415048c5de1e
 https://fn09.sp0502.xyz/nodes/db37f782e6a428e1c343a919ceb402b3
 https://fn09.sp0502.xyz/nodes/536a373874fbb23a3fe6fa397195e448
-https://fn09.sp0502.xyz/nodes/8d1a1420486bab8a6ba535562df5bdcf
+https://fn09.sp0502.xyz/nodes/fb41f2cd5d7f7396bf0a3f320e59932d
 
 ```
 
