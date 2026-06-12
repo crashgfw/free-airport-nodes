@@ -37,7 +37,7 @@
 # V2ray订阅链接：
 
 https://fn10.sp0529.xyz/nodes/76e610a5267c66de27ae790b4a91b7bf
-https://fn10.sp0529.xyz/nodes/fc35550b643c2a69131cb32d9b769ba7
+https://fn10.sp0529.xyz/nodes/8959b462ad13922a17782893ac250e75
 https://fn10.sp0529.xyz/nodes/c89075e526ab9d7a6bb5e505ae77d9cd
 https://fn10.sp0529.xyz/nodes/5aa9d09666da5bda330dbc0b55923224
 https://fn10.sp0529.xyz/nodes/2009d22a007628623de2e648856237a6
