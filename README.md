@@ -50,9 +50,9 @@ https://fn01.fn0618.xyz/nodes/4fe99c684141d4b1e6d523a9b50dd81c
 https://fn01.fn0618.xyz/nodes/6e41d4edaaf4417a8b2bd6a20cb743e8
 https://fn01.fn0618.xyz/nodes/a532d731eb68115bb89cad809724f03f
 https://fn01.fn0618.xyz/nodes/b4cb3745e20222da3aab5749c5a92d88
-https://fn01.fn0618.xyz/nodes/976387c97a6174c2b903379a7132e848
+https://fn01.fn0618.xyz/nodes/ec793056ed5201e8ee33a6d52ce7fb44
 https://fn01.fn0618.xyz/nodes/9928db56dc439119eeb031ad9e25d996
-https://fn01.fn0618.xyz/nodes/c280a128a1fa9204ef83895191a59985
+https://fn01.fn0618.xyz/nodes/c3bd682ccf336fc60c3a5c1bb35a6b67
 
 ```
 
