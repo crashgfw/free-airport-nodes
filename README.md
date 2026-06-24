@@ -36,23 +36,23 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn01.fn0618.xyz/nodes/f3716b04a1ddc1537ffc77f6ce98b3c9
-https://fn01.fn0618.xyz/nodes/7be0a3a0b9691d636038f284246731ee
-https://fn01.fn0618.xyz/nodes/5fdb9f35e2b9492c0650c67f7bb70958
-https://fn01.fn0618.xyz/nodes/a52a4705e674f01e01ffd366113a5d80
-https://fn01.fn0618.xyz/nodes/5fa661527fec9aa23854eba9df11aa5d
-https://fn01.fn0618.xyz/nodes/877195497975a1ab269368fe9925ae77
-https://fn01.fn0618.xyz/nodes/9bfee64581794b23561fba6d1871b304
-https://fn01.fn0618.xyz/nodes/0caeb6744f8a1b8e18c3fe35224c32e8
-https://fn01.fn0618.xyz/nodes/cab75233a55e4717388af0bb01dd69da
-https://fn01.fn0618.xyz/nodes/35d6fbe983c980796ea5fcf843459f7c
+https://fn01.fn0618.xyz/nodes/0f18ae0b7bc16f1233d33a78741c9e68
+https://fn01.fn0618.xyz/nodes/9f4b55ed6fe723b2d397f48e5dfbdea8
+https://fn01.fn0618.xyz/nodes/c49a02bf81af7bc44c68315e79382100
+https://fn01.fn0618.xyz/nodes/5357d819f23caffaa3bb1b0f53b6d588
+https://fn01.fn0618.xyz/nodes/2f920e05f765e17330f1db64ff9df22e
+https://fn01.fn0618.xyz/nodes/fe763eb97212fe5ffcf99b0051d5a765
+https://fn01.fn0618.xyz/nodes/e0f3a9b7e60443c2bb59d686f5844159
+https://fn01.fn0618.xyz/nodes/2faaf4b825978fdd5a0d566317b3322c
+https://fn01.fn0618.xyz/nodes/36cc49ed0e0c90d250d2b461a1749297
+https://fn01.fn0618.xyz/nodes/4580a3ed59547e4e30c46e0185830211
 https://fn01.fn0618.xyz/nodes/79ab6f1b6cb8cde5729e3b43952eb4cb
-https://fn01.fn0618.xyz/nodes/e02bbf6a837a8b097906818c5bb90577
-https://fn01.fn0618.xyz/nodes/8991686796662d4d7e71dbff70d4ff3e
-https://fn01.fn0618.xyz/nodes/c66f1e64f635b75ccec61538e1567e10
+https://fn01.fn0618.xyz/nodes/671ee9c8bdce85da7582510d806d1eec
+https://fn01.fn0618.xyz/nodes/8b234686f6db2994c086e07e5ea68b50
+https://fn01.fn0618.xyz/nodes/dec983f99930eec0f3f54f9ab89a049a
 https://fn01.fn0618.xyz/nodes/1d359451a954b1aa45db4ea173f3244b
 https://fn01.fn0618.xyz/nodes/a447db34c30217ce4064865f66ad61f4
-https://fn01.fn0618.xyz/nodes/2a30bb603ededba07d19a733857c544c
+https://fn01.fn0618.xyz/nodes/304452fcf25e204b2f251ff5ced71300
 
 ```
 
