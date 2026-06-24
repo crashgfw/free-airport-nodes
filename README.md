@@ -36,8 +36,8 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn01.fn0618.xyz/nodes/8c86d3e19907b8db977fdff7a26c9665
-https://fn01.fn0618.xyz/nodes/178d4a7bb5ee4ec3f6d1ca4579c571c0
+https://fn01.fn0618.xyz/nodes/f3716b04a1ddc1537ffc77f6ce98b3c9
+https://fn01.fn0618.xyz/nodes/7be0a3a0b9691d636038f284246731ee
 https://fn01.fn0618.xyz/nodes/5fdb9f35e2b9492c0650c67f7bb70958
 https://fn01.fn0618.xyz/nodes/a52a4705e674f01e01ffd366113a5d80
 https://fn01.fn0618.xyz/nodes/5fa661527fec9aa23854eba9df11aa5d
@@ -46,12 +46,12 @@ https://fn01.fn0618.xyz/nodes/9bfee64581794b23561fba6d1871b304
 https://fn01.fn0618.xyz/nodes/0caeb6744f8a1b8e18c3fe35224c32e8
 https://fn01.fn0618.xyz/nodes/cab75233a55e4717388af0bb01dd69da
 https://fn01.fn0618.xyz/nodes/35d6fbe983c980796ea5fcf843459f7c
-https://fn01.fn0618.xyz/nodes/f5de3da9c23fdcbd1c0960613b896e2c
+https://fn01.fn0618.xyz/nodes/79ab6f1b6cb8cde5729e3b43952eb4cb
 https://fn01.fn0618.xyz/nodes/e02bbf6a837a8b097906818c5bb90577
 https://fn01.fn0618.xyz/nodes/8991686796662d4d7e71dbff70d4ff3e
 https://fn01.fn0618.xyz/nodes/c66f1e64f635b75ccec61538e1567e10
-https://fn01.fn0618.xyz/nodes/ee710ea30ea1f77707416110737cea1d
-https://fn01.fn0618.xyz/nodes/e3b90adca618fd735b8eb12a545818a3
+https://fn01.fn0618.xyz/nodes/1d359451a954b1aa45db4ea173f3244b
+https://fn01.fn0618.xyz/nodes/a447db34c30217ce4064865f66ad61f4
 https://fn01.fn0618.xyz/nodes/2a30bb603ededba07d19a733857c544c
 
 ```
