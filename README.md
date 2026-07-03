@@ -36,23 +36,23 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn01.fn0618.xyz/nodes/047efc066cef1be0d006651928900290
-https://fn01.fn0618.xyz/nodes/63d7414c0d254d9fc9e1e24bb848490c
-https://fn01.fn0618.xyz/nodes/d6f00e1c98e90cb116b1cce405697efb
-https://fn01.fn0618.xyz/nodes/3ffa24b27ba89632014b565c48876dce
-https://fn01.fn0618.xyz/nodes/3e23d84068f157fd588c2fc3a8ac0d99
-https://fn01.fn0618.xyz/nodes/51fce784733705b3a0d3a5d951ea02ef
-https://fn01.fn0618.xyz/nodes/06d39d36054b4728c90898bbe9fe7065
-https://fn01.fn0618.xyz/nodes/28ffbab9dd5c33954dfdd92ade81d560
-https://fn01.fn0618.xyz/nodes/971be5127ed9e8e9811b4d0d3ac6f42a
-https://fn01.fn0618.xyz/nodes/88afbf4d7745177877d51d658112a260
-https://fn01.fn0618.xyz/nodes/579a9a54b30312923f7ba25d37e7c97e
-https://fn01.fn0618.xyz/nodes/44b182068cba6c151381b6986c037e0a
-https://fn01.fn0618.xyz/nodes/dcd02adaec0fa7d2cb6cbc9e785d939e
-https://fn01.fn0618.xyz/nodes/cd20dbf6047b5039eede1134bc02c347
-https://fn01.fn0618.xyz/nodes/7c0a191ac65d7ab4102b62ca561d8437
-https://fn01.fn0618.xyz/nodes/7a01df950aba835fc1c9d8f2103ae196
-https://fn01.fn0618.xyz/nodes/9e91a4f57ca865299ea250ae5d043c06
+https://fn02.fn0618.xyz/nodes/047efc066cef1be0d006651928900290
+https://fn02.fn0618.xyz/nodes/63d7414c0d254d9fc9e1e24bb848490c
+https://fn02.fn0618.xyz/nodes/d6f00e1c98e90cb116b1cce405697efb
+https://fn02.fn0618.xyz/nodes/3ffa24b27ba89632014b565c48876dce
+https://fn02.fn0618.xyz/nodes/3e23d84068f157fd588c2fc3a8ac0d99
+https://fn02.fn0618.xyz/nodes/51fce784733705b3a0d3a5d951ea02ef
+https://fn02.fn0618.xyz/nodes/06d39d36054b4728c90898bbe9fe7065
+https://fn02.fn0618.xyz/nodes/28ffbab9dd5c33954dfdd92ade81d560
+https://fn02.fn0618.xyz/nodes/971be5127ed9e8e9811b4d0d3ac6f42a
+https://fn02.fn0618.xyz/nodes/17a5d2170161b28068558bb8b9b316cb
+https://fn02.fn0618.xyz/nodes/579a9a54b30312923f7ba25d37e7c97e
+https://fn02.fn0618.xyz/nodes/44b182068cba6c151381b6986c037e0a
+https://fn02.fn0618.xyz/nodes/dcd02adaec0fa7d2cb6cbc9e785d939e
+https://fn02.fn0618.xyz/nodes/cd20dbf6047b5039eede1134bc02c347
+https://fn02.fn0618.xyz/nodes/301ce80fb31fec303d77f96165ac6a5f
+https://fn02.fn0618.xyz/nodes/83e6253ed7d4d3636b299cf0fd7d7211
+https://fn02.fn0618.xyz/nodes/9e91a4f57ca865299ea250ae5d043c06
 
 ```
 
@@ -75,6 +75,6 @@ https://fn01.fn0618.xyz/nodes/9e91a4f57ca865299ea250ae5d043c06
 这样可以减少连接失败的情况，提高使用效率。
 尽量选择较新的节点，确保连接的稳定性和速度。
 
-**如果发现节点全部显示 timeout 或 not stable，即表明链接失效了**。
+**如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
 以上介绍了2026 年 07 月 03 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
