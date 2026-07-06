@@ -36,21 +36,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.fn0618.xyz/nodes/ef0ff73da7a34056096c65b52c4540a3
-https://fn02.fn0618.xyz/nodes/9b498dff3df64bc8ec16c53599afc0ea
-https://fn02.fn0618.xyz/nodes/192abdacb07e6c617200b6f06031069a
-https://fn02.fn0618.xyz/nodes/81d14b1c94c39e6eca90b650e6bd7571
-https://fn02.fn0618.xyz/nodes/a59ea6ef71623a7b7254cfdf59fc081c
-https://fn02.fn0618.xyz/nodes/f42d9baf92a7c314b947021e77307f34
-https://fn02.fn0618.xyz/nodes/68b730b8d335a34c740e576ac1461515
-https://fn02.fn0618.xyz/nodes/44f436e08dfbdbedb51074f322dbd163
-https://fn02.fn0618.xyz/nodes/5c7825856ab930a60e1c054d41b98239
-https://fn02.fn0618.xyz/nodes/d2819bc80a487948489504c478f79928
+https://fn02.fn0618.xyz/nodes/f7ff80882fcf67a57c8ea3006e88de57
+https://fn02.fn0618.xyz/nodes/732bb8410fc018ac32a3259f18d33f6b
+https://fn02.fn0618.xyz/nodes/3a68700b06a99b84b0f717f2c9f3692a
+https://fn02.fn0618.xyz/nodes/72add4fa8113c1e9120110c491619883
+https://fn02.fn0618.xyz/nodes/280b0c4ac379c8d08583523f5ad57f8b
+https://fn02.fn0618.xyz/nodes/3d3d240004e0c7a504f97ffb206c5570
+https://fn02.fn0618.xyz/nodes/4bdca8f8d6e3ed81148ec056938d557f
+https://fn02.fn0618.xyz/nodes/da53258b162427a810fff6629ec835b2
+https://fn02.fn0618.xyz/nodes/6ca280db96d2ab9685eaaf622889ebf8
+https://fn02.fn0618.xyz/nodes/89b39bb1ca9326c19faf96ca5e39c9a2
 https://fn02.fn0618.xyz/nodes/7e20c86c2419fbe7cdb54725181423dc
-https://fn02.fn0618.xyz/nodes/ab42008ce65ca89ff9b133e754d4974b
-https://fn02.fn0618.xyz/nodes/4428086b9d8ba31e92feb86e106d677e
-https://fn02.fn0618.xyz/nodes/b6e0ed1a36bd0d0a6417e992ffaea5ef
-https://fn02.fn0618.xyz/nodes/d760970781e44030925ba5ae55e2eb7c
+https://fn02.fn0618.xyz/nodes/9b27f3a6e8e240f0060a95eca4fcec41
+https://fn02.fn0618.xyz/nodes/36f4d2dbe0a9ed4a921dc0c7ca92b934
+https://fn02.fn0618.xyz/nodes/34b397e0df42a42f1e528fd6942d6575
+https://fn02.fn0618.xyz/nodes/7ae64af0f481646380fc08ef035d8442
 https://fn02.fn0618.xyz/nodes/a04c2f3fcbfbcd01e779dd95d89efb51
 https://fn02.fn0618.xyz/nodes/3ea70a1f544ed4f283df0e7d8e3c0a62
 
