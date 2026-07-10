@@ -36,23 +36,23 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.fn0618.xyz/nodes/0f571ce334251e93328650dd2ddb62f4
-https://fn02.fn0618.xyz/nodes/b818b210e76ff7379f990d9130cd7ad3
-https://fn02.fn0618.xyz/nodes/bcfb92908319a16e4704e42337ccb01a
-https://fn02.fn0618.xyz/nodes/79c7a85a09bbc5b340bb6b689137959b
+https://fn02.fn0618.xyz/nodes/bde357fd5986a0e5751b53065fcdd287
+https://fn02.fn0618.xyz/nodes/de02db6e9114fc7d11a2166f0e697aff
+https://fn02.fn0618.xyz/nodes/d5cecd2139a4cbec914eb842724305fc
+https://fn02.fn0618.xyz/nodes/a500dc7f612418d08098b27482cfc5b1
 https://fn02.fn0618.xyz/nodes/cff3a179b91b8aaab7eff47cb7d23cac
 https://fn02.fn0618.xyz/nodes/dee64830a1f19f838e2860e2aebc52fe
-https://fn02.fn0618.xyz/nodes/093936bed8d5d63299cc70d465e39e30
-https://fn02.fn0618.xyz/nodes/89f6a2315487297b38f03443c1b3b2e5
-https://fn02.fn0618.xyz/nodes/bcf166841a71a1c5e7552307bf9f730e
-https://fn02.fn0618.xyz/nodes/131aaa3e3cb5f674766574e9cd0bb754
+https://fn02.fn0618.xyz/nodes/8a7476540671c532902edb5a4e76c221
+https://fn02.fn0618.xyz/nodes/edabe85275e86d5ddd99bc94462618a0
+https://fn02.fn0618.xyz/nodes/a36f295ae7a8f07b363dacc7b249a262
+https://fn02.fn0618.xyz/nodes/9d268e46e2d2a340aae8d8bc88e4084f
 https://fn02.fn0618.xyz/nodes/1cb3a8304ee1bf6d78ef5a914c1342f3
-https://fn02.fn0618.xyz/nodes/f2d5410877138d5a146de84fa16a3ddf
-https://fn02.fn0618.xyz/nodes/ed7f1bc5b1932a0c120e684fcecf6b7e
-https://fn02.fn0618.xyz/nodes/44d1dd51d1aef02020396ac7abde893c
-https://fn02.fn0618.xyz/nodes/227ae20ab1ab84ec7543ebb4424e0553
-https://fn02.fn0618.xyz/nodes/847dfaf8103f9191e8bef6174c5fe163
-https://fn02.fn0618.xyz/nodes/efdf04e643d1bc52c9026412a81dd9d1
+https://fn02.fn0618.xyz/nodes/cc048428b8e207d461c987e8a9a67ab2
+https://fn02.fn0618.xyz/nodes/b94af3a7434713b94da42e28ea9edbc0
+https://fn02.fn0618.xyz/nodes/64d4557c88504c065e9f26ef98b8bfe8
+https://fn02.fn0618.xyz/nodes/de850d6ce9ee944da9bbb4290eb1a253
+https://fn02.fn0618.xyz/nodes/db40508d2c533f46e2635bd12a9039d7
+https://fn02.fn0618.xyz/nodes/eba6638dbd62b6af5d7d7d34c97b065c
 
 ```
 
