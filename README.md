@@ -1,4 +1,4 @@
-# 2026 年 08 月 02 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 08 月 03 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,7 +29,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 08 月 02 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 08 月 03 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -39,19 +39,19 @@
 https://fn03.fn0618.xyz/nodes/57a0448f0782553ce5539551aae3227b
 https://fn03.fn0618.xyz/nodes/29a19ddb66f3f3cf4a4ecad84ca8b418
 https://fn03.fn0618.xyz/nodes/0a7f309e5bc2b712f5f5d4aa1d15633f
-https://fn03.fn0618.xyz/nodes/c2e850674fc5dff765c2cb7ec164a715
+https://fn03.fn0618.xyz/nodes/1411d80e520f75c9c159dea3770902f6
 https://fn03.fn0618.xyz/nodes/ec85f5ae3bf7bde1278824476b2a62b2
 https://fn03.fn0618.xyz/nodes/6deae1926a4b620967cc6223fd583484
-https://fn03.fn0618.xyz/nodes/0df43788502ee559a8e6241016ae6a31
+https://fn03.fn0618.xyz/nodes/1d9473b8c9ace7641ba82c053a9598cd
 https://fn03.fn0618.xyz/nodes/b088d1947579b6728e9e5487d40c41b5
 https://fn03.fn0618.xyz/nodes/98d44fbe385cf2af03fe35fff774cc50
 https://fn03.fn0618.xyz/nodes/14401d3e7d6c73242daf651cdf642130
 https://fn03.fn0618.xyz/nodes/c421ae7d9a213bc8fd1ddc308297c508
-https://fn03.fn0618.xyz/nodes/12b92a3e5062501846b3f3c0406af030
+https://fn03.fn0618.xyz/nodes/19b927815991684c48fef0366a575307
 https://fn03.fn0618.xyz/nodes/a8318bae6b93748ddb24edfd113e74e9
 https://fn03.fn0618.xyz/nodes/1f377ef6125d356760adfdce32388b0d
 https://fn03.fn0618.xyz/nodes/ec4528e2826ab1f0c5714c6e4040e7d8
-https://fn03.fn0618.xyz/nodes/6ba1a06fa1bb8f64b3474da6972949a3
+https://fn03.fn0618.xyz/nodes/c27ea8077a19607ce10168c50ee65ce1
 https://fn03.fn0618.xyz/nodes/1743be43ad5c087385bdd9dff67758cb
 
 ```
@@ -66,7 +66,9 @@ https://fn03.fn0618.xyz/nodes/1743be43ad5c087385bdd9dff67758cb
 - [Hiddify Next (Android) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/android/)
 - [Hiddify Next (iOS) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/ios/)
 - [Windows 平台 v2rayN 安装与配置教程](https://docs.proxyguide.org/v2ray/v2rayN-install/)
-- [Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-on-linux/)
+- [Linux 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-on-linux/)
+- [Macos 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-rev-on-macos/)
+- [Windows 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-rev-on-windows/)
 
 ## 4. 使用须知
 
@@ -77,4 +79,4 @@ https://fn03.fn0618.xyz/nodes/1743be43ad5c087385bdd9dff67758cb
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 08 月 02 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 08 月 03 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
