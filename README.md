@@ -43,7 +43,7 @@ https://ndx.fn0618.xyz/nodes/ea8f9cad529e726b71f6d41b42ebec32
 https://ndx.fn0618.xyz/nodes/0c8962f1042348e8d309e6c45c85ebd7
 https://ndx.fn0618.xyz/nodes/805589fb4cee3cc99c9a1c6c9e6388e3
 https://ndx.fn0618.xyz/nodes/33eb2b4d4ef686ca9f849d97bd57e7a7
-https://ndx.fn0618.xyz/nodes/90c605efa916ed594952addf2f9ccfd5
+https://ndx.fn0618.xyz/nodes/7bdb818d4980986a9648d00aec28b46a
 https://ndx.fn0618.xyz/nodes/a7dcccee4da8bae2360a24a7a691b727
 https://ndx.fn0618.xyz/nodes/0ba2c431c9aaf3ca9365ebaa2f0c93d3
 https://ndx.fn0618.xyz/nodes/de25a7a6ea0a1542f84d401a4c2572b5
@@ -66,6 +66,7 @@ https://ndx.fn0618.xyz/nodes/21c943247feab002d3672f60ec3acb04
 - [Hiddify Next (Android) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/android/)
 - [Hiddify Next (iOS) 安装与配置教程](https://docs.proxyguide.org/hiddifyapp/ios/)
 - [Windows 平台 v2rayN 安装与配置教程](https://docs.proxyguide.org/v2ray/v2rayN-install/)
+- [Android 平台上 v2rayNG 安装与使用教程](https://docs.proxyguide.org/v2ray/v2rayNG-install/)
 - [Linux 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-on-linux/)
 - [Macos 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-rev-on-macos/)
 - [Windows 平台 Clash Verge Rev 安装与使用教程](https://docs.proxyguide.org/clash/clash-verge-rev-on-windows/)
