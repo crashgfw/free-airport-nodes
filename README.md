@@ -40,7 +40,7 @@ https://ndx.fn0618.xyz/nodes/9de45d9006daf5f00bfbbc91b23cc61c
 https://ndx.fn0618.xyz/nodes/792d6cd1aacd1ecd29373edca2adcf89
 https://ndx.fn0618.xyz/nodes/d81ab8d81c1fe69e8bcb77416b2e8466
 https://ndx.fn0618.xyz/nodes/ea8f9cad529e726b71f6d41b42ebec32
-https://ndx.fn0618.xyz/nodes/0c8962f1042348e8d309e6c45c85ebd7
+https://ndx.fn0618.xyz/nodes/be1c69af7266fca12a096ca58fc66d49
 https://ndx.fn0618.xyz/nodes/805589fb4cee3cc99c9a1c6c9e6388e3
 https://ndx.fn0618.xyz/nodes/33eb2b4d4ef686ca9f849d97bd57e7a7
 https://ndx.fn0618.xyz/nodes/7bdb818d4980986a9648d00aec28b46a
