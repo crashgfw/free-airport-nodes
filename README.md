@@ -45,13 +45,13 @@ https://ndx.fn0618.xyz/nodes/fa6ae10c673eb21db744fbd605cd89b9
 https://ndx.fn0618.xyz/nodes/cc666b3074658b6d5756eec791627b5a
 https://ndx.fn0618.xyz/nodes/6f96c27f9c00b8243b5f11d530438d6c
 https://ndx.fn0618.xyz/nodes/e324604998e9a5647adb67dfc5851ff1
-https://ndx.fn0618.xyz/nodes/ef02fdd77175599ae347982216e5cd77
-https://ndx.fn0618.xyz/nodes/f9f589c29c7240e11581f948cbb0d995
-https://ndx.fn0618.xyz/nodes/e1c3f713638c635fcb1a0a367803e9e7
-https://ndx.fn0618.xyz/nodes/ff1fa126c9ac844cfd1b5d60d437e506
-https://ndx.fn0618.xyz/nodes/5c66a8b57aa7c297d85c963aea0ed76f
-https://ndx.fn0618.xyz/nodes/2cb6ab694cdf2990a136800bcb228644
-https://ndx.fn0618.xyz/nodes/46c92a6c0021d537590add2d395c7dce
+https://ndx.fn0618.xyz/nodes/3933680a78179f849bebf0ff8526f150
+https://ndx.fn0618.xyz/nodes/1c9e7e149f04cda9e9113bdae8ca73e8
+https://ndx.fn0618.xyz/nodes/902306140f13dd3d649e8fbe9bcbd8e7
+https://ndx.fn0618.xyz/nodes/1bad3a7345ccb3f7d282f9f7205a9cbb
+https://ndx.fn0618.xyz/nodes/a15b3f96967da1c4544d8a6d5b9c1f18
+https://ndx.fn0618.xyz/nodes/38fe7a16aebe466734293d9f7462d71e
+https://ndx.fn0618.xyz/nodes/7b1d4c49f080d8a7d93a7571b8085e76
 https://ndx.fn0618.xyz/nodes/bdef4258aaf526f5377289c3cb8f6c7f
 
 ```
