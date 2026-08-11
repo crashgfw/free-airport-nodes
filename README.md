@@ -1,4 +1,4 @@
-# 2026 年 08 月 10 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 08 月 11 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,7 +29,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 08 月 10 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 08 月 11 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -46,13 +46,13 @@ https://ndx.fn0618.xyz/nodes/c6ab11f9e77e984293e6eec76017911f
 https://ndx.fn0618.xyz/nodes/1f2104339f563696fb929742cbc0b44e
 https://ndx.fn0618.xyz/nodes/8bbc1d9d85ff0d80f151421518df8d9e
 https://ndx.fn0618.xyz/nodes/79a255801a0e6ded86dc659914572804
-https://ndx.fn0618.xyz/nodes/79b85da8807897a2030bf8fdd6578f16
-https://ndx.fn0618.xyz/nodes/f240afff996b50534a362d1ea235ae25
+https://ndx.fn0618.xyz/nodes/748d3c39072abe86ec45b99b2ece7aec
+https://ndx.fn0618.xyz/nodes/cf5e75e0a24e5d981643e1a5374f889e
 https://ndx.fn0618.xyz/nodes/952b17c3d7e013a49fc9dce9e09af6b8
-https://ndx.fn0618.xyz/nodes/48a3331af65ce359c44c6ce8a2ad6c3b
-https://ndx.fn0618.xyz/nodes/1cb925f85ac76453350e201ae7cd03a8
+https://ndx.fn0618.xyz/nodes/746bb7ab934993f21b9c9205e09da101
+https://ndx.fn0618.xyz/nodes/b2824db5f86ce4e265ae3b6d0b9fe26e
 https://ndx.fn0618.xyz/nodes/34d46783f0349804cf7664ffe9187479
-https://ndx.fn0618.xyz/nodes/bf7b3326bfd00831049c2090e03d2b2b
+https://ndx.fn0618.xyz/nodes/03a1e69db607cdd284776a5dd8d5d230
 
 ```
 
@@ -80,4 +80,4 @@ https://ndx.fn0618.xyz/nodes/bf7b3326bfd00831049c2090e03d2b2b
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 08 月 10 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 08 月 11 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
