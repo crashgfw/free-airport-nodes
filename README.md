@@ -1,4 +1,4 @@
-# 2026 年 08 月 17 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 08 月 18 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -29,27 +29,27 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 08 月 17 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 08 月 18 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://ndy.fn0618.xyz/nodes/f6af19d9ee5383b85d7f321b90ff326a
-https://ndy.fn0618.xyz/nodes/763569ea5245b8f1d8a2be3040d5070a
-https://ndy.fn0618.xyz/nodes/88952483bf86984b2d6f97e787dccc69
-https://ndy.fn0618.xyz/nodes/dc8d2c97b945910ef4e367bcfb35c2df
+https://ndy.fn0618.xyz/nodes/2724813eace7f99184fa581d4195dbba
+https://ndy.fn0618.xyz/nodes/9c11775b62956e147b104c276ed7b7bb
+https://ndy.fn0618.xyz/nodes/8ab37cd5d588eb516c72a4291c94202d
+https://ndy.fn0618.xyz/nodes/2fd2c4d9f557c0e7ef439a6020e5a416
 https://ndy.fn0618.xyz/nodes/328cd9ffe11c82047381396e3c3bf126
 https://ndy.fn0618.xyz/nodes/19a884a38a8496808b734617c0cf5171
-https://ndy.fn0618.xyz/nodes/eb28dfed7bba9549d5888e530e2bdf32
+https://ndy.fn0618.xyz/nodes/8aa0505b3e32ca0df717e393973c3d17
 https://ndy.fn0618.xyz/nodes/13581b7776803650c2afd2fd23e48466
 https://ndy.fn0618.xyz/nodes/a6172a0e8df0e82c6d1fe2cb5a160482
 https://ndy.fn0618.xyz/nodes/d4c86326369f7b1940a3e20c97793e57
 https://ndy.fn0618.xyz/nodes/bc053e911d5e6617bd356f89e6457e26
 https://ndy.fn0618.xyz/nodes/fab1fa387baff8090d0e7e6b36e14af5
 https://ndy.fn0618.xyz/nodes/3eabe98411f4eefea87cc49c86615c96
-https://ndy.fn0618.xyz/nodes/c867d5a70da03aa85369146a694deac4
+https://ndy.fn0618.xyz/nodes/fe4c3b546409578b11d78346a90a3ef3
 https://ndy.fn0618.xyz/nodes/e8709f48f3afa982e90b54a8a66ef28d
 https://ndy.fn0618.xyz/nodes/321cb27a956077ebdaaee9d87ac17809
 https://ndy.fn0618.xyz/nodes/8d030dfe40a32d4827b1498fbb5dd77a
@@ -80,4 +80,4 @@ https://ndy.fn0618.xyz/nodes/8d030dfe40a32d4827b1498fbb5dd77a
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 08 月 17 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 08 月 18 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
