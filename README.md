@@ -1,4 +1,4 @@
-# 2026 年 09 月 13 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 09 月 14 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -16,43 +16,46 @@
 
 **套餐价格：**
 
--   入门套餐：最高速率 100Mbps, 130G 流量/月， 9.9 元/月; 28.8 元/季; 55.8 元/半年; 105.8 元/年; 不限设备数;
--   标准套餐：最高速率 200Mbps, 300G 流量/月， 19.8 元/月; 56.8 元/季; 108.8 元/半年; 208.8 元/年; 不限设备数;
--   高级套餐：最高速率 300Mbps, 500G 流量/月， 33.8 元/月; 98.8 元/季; 188.6 元/半年; 356.6 元/年; 不限设备数;
--   豪华套餐：最高速率 400Mbps, 800G 流量/月， 51.8 元/月; 149.6 元/季; 288 元/半年; 546.8 元/年; 不限设备数;
--   至尊套餐：最高速率 500Mbps, 1000G 流量/月， 66.8 元/月; 193.6 元/季; 368.8 元/半年; 699.6 元/年; 不限设备数;
--   不限时流量 - A 套餐：最高速率 200Mbps, 300G 流量/不限时， 69.9 元; 不限设备数;
--   不限时流量 - B 套餐：最高速率 300Mbps, 500G 流量/不限时， 105 元; 不限设备数;
--   不限时流量 - C 套餐：最高速率 400Mbps, 800G 流量/不限时，148 元; 不限设备数;
+| 套餐名称                     | 流量(GB) | 月付(元) | 季付(元) | 半年付(元) | 年付(元) | 一次性 |
+| ---------------------------- | -------- | -------- | -------- | ---------- | -------- | ------ |
+| 入门套餐(限速 100Mbps)       | 120G     | 9.9      | 28.8     | 55.8       | 105.8    | ×      |
+| 标准套餐(限速 200Mbps)       | 300G     | 20.8     | 58.8     | 112.8      | 208.8    | ×      |
+| 高级套餐(限速 300Mbps)       | 500G     | 37.8     | 108.8    | 212.6      | 399.6    | ×      |
+| 豪华套餐(限速 400Mbps)       | 800G     | 56.8     | 159.6    | 312        | 618.8    | ×      |
+| 至尊套餐(限速 500Mbps)       | 1000G    | 69.8     | 201.6    | 386.8      | 735.6    | ×      |
+| 商务套餐 Basic(限速 500Mbps) | 2000G    | 135      | 395.8    | 762        | 1485     | ×      |
+| 不限时流量 - A 套餐          | 300G     | ×        | ×        | ×          | ×        | 69.9   |
+| 不限时流量 - B 套餐          | 500G     | ×        | ×        | ×          | ×        | 105    |
+| 不限时流量 - C 套餐          | 800G     | ×        | ×        | ×          | ×        | 148    |
 
 <a href="https://f2.st0103.top/1" target="_blank">稳联云 入口</a>
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 09 月 13 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 09 月 14 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://ndxy.fn0821.xyz/nodes/76368b9e3265e70b42e6c8aa30832cdd
-https://ndxy.fn0821.xyz/nodes/df20b075a472dea4bfe17ef2a076d9f5
-https://ndxy.fn0821.xyz/nodes/0a38c5d5b6c8944a718d552997925506
-https://ndxy.fn0821.xyz/nodes/ca836e7262495c04ca89e9f3a83a8be1
+https://ndxy.fn0821.xyz/nodes/ca583c5d8f8574a63a4d45767574fa78
+https://ndxy.fn0821.xyz/nodes/7d78c0d4ab772ded2a3136bab6d0b635
+https://ndxy.fn0821.xyz/nodes/5a2b8aa33999bbf54515ce471b4848a4
+https://ndxy.fn0821.xyz/nodes/280963e3b92bf572f4a904a01fc98f48
 https://ndxy.fn0821.xyz/nodes/f8064f9ceea43658abe8849bf2700385
 https://ndxy.fn0821.xyz/nodes/2e30d3db247f569f8fd930a9c7a6b54c
-https://ndxy.fn0821.xyz/nodes/821d56465fe3c5bc164ef780594edfc3
+https://ndxy.fn0821.xyz/nodes/e0bcca59253319c1704527c2349b439a
 https://ndxy.fn0821.xyz/nodes/06e931de6ee319e628aedfc8c1fd1d53
-https://ndxy.fn0821.xyz/nodes/30a513273746745fcac18ebccf4f1d46
-https://ndxy.fn0821.xyz/nodes/1b8dbe42e9d342ef27e62226302203b6
+https://ndxy.fn0821.xyz/nodes/c7b1856573af824c475320a1ea28bfcf
+https://ndxy.fn0821.xyz/nodes/75c1b0f6304e3752f48e53dd056cd5b9
 https://ndxy.fn0821.xyz/nodes/c65b57f4bc7025c2cc6cb9be032c5e48
 https://ndxy.fn0821.xyz/nodes/c58964da209a6905c5fb2e075bc72071
-https://ndxy.fn0821.xyz/nodes/f673304e34b2e1fa630610b011c6728b
+https://ndxy.fn0821.xyz/nodes/e1a87e57192f15dd9d12bef23426688b
 https://ndxy.fn0821.xyz/nodes/ec6e5204c1c7c2bffbc1d815214cc8be
 https://ndxy.fn0821.xyz/nodes/e69cb3e9b5de65d34b891f243a182877
 https://ndxy.fn0821.xyz/nodes/fb92a1ea0b755e6a66399a2a92c9f693
-https://ndxy.fn0821.xyz/nodes/8c01878994960f4f720c08a752033241
+https://ndxy.fn0821.xyz/nodes/1fa5b1470c8c1926b611bbd48b5249a5
 
 ```
 
@@ -80,4 +83,4 @@ https://ndxy.fn0821.xyz/nodes/8c01878994960f4f720c08a752033241
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 09 月 13 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 09 月 14 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
