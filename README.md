@@ -1,4 +1,4 @@
-# 2026 年 09 月 27 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 09 月 28 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -32,7 +32,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 09 月 27 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 09 月 28 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -44,14 +44,14 @@ https://ndxy.fn0821.xyz/nodes/ab8fd615e349e0da48310f41dfdf8bc2
 https://ndxy.fn0821.xyz/nodes/10844825202b9550f61d20cb7ae18abf
 https://ndxy.fn0821.xyz/nodes/4538f70162bd9b9ee67c16568c59a8aa
 https://ndxy.fn0821.xyz/nodes/fb245c24aa4090ffa561b92695e9b77f
-https://ndxy.fn0821.xyz/nodes/cd84b2346007256b26ab28473e8d0d84
+https://ndxy.fn0821.xyz/nodes/a22ed5b2ec7502a9cf12466c9a361444
 https://ndxy.fn0821.xyz/nodes/a90493b7d9402959f47a7e8d5484e1a6
-https://ndxy.fn0821.xyz/nodes/882b2fe15da0c78ed20e43c0158d984b
+https://ndxy.fn0821.xyz/nodes/ac0eed451cbcb2c6112728bbb9880014
 https://ndxy.fn0821.xyz/nodes/0fdf7ebcb9f74496606570d4cb6c6671
 https://ndxy.fn0821.xyz/nodes/a297fc2222cab96b0a888d0489476ac1
 https://ndxy.fn0821.xyz/nodes/2ec026903fe4407e0ddcebb45d79fa90
-https://ndxy.fn0821.xyz/nodes/747ad4c0f7ff943c64b7394201f4fcf2
-https://ndxy.fn0821.xyz/nodes/2935070352b5662f3865061d3d8e3ddb
+https://ndxy.fn0821.xyz/nodes/d7c6ad3839e9fd46002d58b9923d5025
+https://ndxy.fn0821.xyz/nodes/cc8c60f7fcbdf32d1d79d1daefa1d420
 https://ndxy.fn0821.xyz/nodes/46729db5613ce384498644244277ee32
 https://ndxy.fn0821.xyz/nodes/eaeb00c45b9945445ed0c91b60d5bbfc
 https://ndxy.fn0821.xyz/nodes/6c5db918843e72a9fe1ac04dd5e1b87d
@@ -83,4 +83,4 @@ https://ndxy.fn0821.xyz/nodes/8a2f97aa9c2ecb1657152cdea5f4cb4c
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 09 月 27 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 09 月 28 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
