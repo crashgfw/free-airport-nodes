@@ -39,16 +39,16 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://ndxy.fn0821.xyz/nodes/96e04030325c0628d1db43d2299ecef3
-https://ndxy.fn0821.xyz/nodes/5b7c0db0606ffa2085615b95e6ce2c9b
-https://ndxy.fn0821.xyz/nodes/f6b060e3c7799af85fc3d18da50cb790
+https://ndxy.fn0821.xyz/nodes/86d29051135b0c1faed3ad5fd69918c3
+https://ndxy.fn0821.xyz/nodes/b0ed4d063081e5439d6e8ebacc2bff13
+https://ndxy.fn0821.xyz/nodes/6ec66befcfce4e422063b95b193168c1
 https://ndxy.fn0821.xyz/nodes/62f8630c008417396a12335353dc3252
 https://ndxy.fn0821.xyz/nodes/59f31b9290be7e0a964856375bb5d577
 https://ndxy.fn0821.xyz/nodes/19ced9dd7c5293ccfc6c69392cc22521
 https://ndxy.fn0821.xyz/nodes/1858c7d3e58945ec1a7ef4160c552bea
 https://ndxy.fn0821.xyz/nodes/97cd05ba04b608851d0e92a8b9ec0fba
 https://ndxy.fn0821.xyz/nodes/e2d15163af12ebcde974d00c4269a5e2
-https://ndxy.fn0821.xyz/nodes/5b59bac1981136b210839e4de0efb144
+https://ndxy.fn0821.xyz/nodes/18b2b0e30874fea140b82269531b85f7
 https://ndxy.fn0821.xyz/nodes/e3ac11e8405d843ffd48f38dc3150384
 https://ndxy.fn0821.xyz/nodes/bccab8a47594af8a15c5077ba3159786
 https://ndxy.fn0821.xyz/nodes/307d011b85b98b75350a60167e29d857
