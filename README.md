@@ -40,7 +40,7 @@
 # V2ray订阅链接：
 
 https://ndxy.fn0821.xyz/nodes/7133052098070f5bcec04a010fe7cd5a
-https://ndxy.fn0821.xyz/nodes/7aab9bd1362336f9506510ffb34a3ade
+https://ndxy.fn0821.xyz/nodes/30645a429409048d18ef4506f52b5d29
 https://ndxy.fn0821.xyz/nodes/a0cbe79861efb1728b5f660739ccda42
 https://ndxy.fn0821.xyz/nodes/9041cd9cfcc51ba323ad65931f5344f4
 https://ndxy.fn0821.xyz/nodes/b20e63ab33ae306d5190941644e06d0e
