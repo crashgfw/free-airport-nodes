@@ -42,7 +42,7 @@
 https://ndxy.fn0821.xyz/nodes/7133052098070f5bcec04a010fe7cd5a
 https://ndxy.fn0821.xyz/nodes/30645a429409048d18ef4506f52b5d29
 https://ndxy.fn0821.xyz/nodes/a0cbe79861efb1728b5f660739ccda42
-https://ndxy.fn0821.xyz/nodes/9041cd9cfcc51ba323ad65931f5344f4
+https://ndxy.fn0821.xyz/nodes/793322caaf63900e6e7c3c18065f76e2
 https://ndxy.fn0821.xyz/nodes/b20e63ab33ae306d5190941644e06d0e
 https://ndxy.fn0821.xyz/nodes/e70481a2e535182e5587e512d2ca74a1
 https://ndxy.fn0821.xyz/nodes/a54e4c08939e81126bbf0e09bc9c3095
@@ -55,7 +55,7 @@ https://ndxy.fn0821.xyz/nodes/6efd89f89e8f3c9e2cb6c1e96ebf7e82
 https://ndxy.fn0821.xyz/nodes/60ab66b32b0124ddb380a40c10e60b54
 https://ndxy.fn0821.xyz/nodes/3df16d78c98f38d09ccbd809fa852f02
 https://ndxy.fn0821.xyz/nodes/235719bc01fdd0127333a5713e04267c
-https://ndxy.fn0821.xyz/nodes/2ec7ebe74c24fe4bddbb15a72ab2da00
+https://ndxy.fn0821.xyz/nodes/99c7e8d9ddfcf8410efeea4f74f2b543
 
 ```
 
