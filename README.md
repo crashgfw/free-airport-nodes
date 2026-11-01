@@ -1,4 +1,4 @@
-# 2026 年 10 月 31 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 11 月 01 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -32,24 +32,24 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 10 月 31 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 11 月 01 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://ndxy.fn0821.xyz/nodes/ee156fa068c4d789603053b3fa1f2b53
+https://ndxy.fn0821.xyz/nodes/926913d9ce77587ba40ebd471419e32a
 https://ndxy.fn0821.xyz/nodes/97baad7b5900679904416e838b23f499
 https://ndxy.fn0821.xyz/nodes/3cf0901ed155e65d62b65133b524347d
 https://ndxy.fn0821.xyz/nodes/ddfc7d7699c7dce3ad80fa709d78d1f5
 https://ndxy.fn0821.xyz/nodes/b515f10c2cbb347a8421663c28855cde
 https://ndxy.fn0821.xyz/nodes/0a243e38da1d6824a5c8b88803d2ed74
-https://ndxy.fn0821.xyz/nodes/02aeadb50bc7c534efbc55c64bb8fe62
+https://ndxy.fn0821.xyz/nodes/c9afa470c9af9892a66411274f30f184
 https://ndxy.fn0821.xyz/nodes/40eaf273a93f57f01344bc797ff3105c
 https://ndxy.fn0821.xyz/nodes/c94a42801d5ccda526d7a4352c438407
 https://ndxy.fn0821.xyz/nodes/a2ac4d6e4dc0d72705c63dfaf94289a8
-https://ndxy.fn0821.xyz/nodes/3030a0699c07e99df77bc20879ca830d
+https://ndxy.fn0821.xyz/nodes/eedec6b60feaf5cde8e50c231c864647
 https://ndxy.fn0821.xyz/nodes/8b8dd753c59af5561140e939325e6305
 https://ndxy.fn0821.xyz/nodes/1f665411489412d2c837983cf03322c2
 https://ndxy.fn0821.xyz/nodes/8ce5a22302e302e651360a4b6e402839
@@ -83,4 +83,4 @@ https://ndxy.fn0821.xyz/nodes/8fe9913fcc16da35236789ecff55fb53
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 10 月 31 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 11 月 01 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
