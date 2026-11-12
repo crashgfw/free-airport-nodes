@@ -1,4 +1,4 @@
-# 2026 年 11 月 11 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
+# 2026 年 11 月 12 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅 | 科学上网
 
 ## 1. <a  href="https://f2.st0103.top/1" target="_blank">稳联云</a>
 
@@ -32,7 +32,7 @@
 
 ## 2. 免费订阅
 
-在这个部分，我们将为你介绍2026 年 11 月 11 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
+在这个部分，我们将为你介绍2026 年 11 月 12 日的免费V2ray/Trojan/SS/Vless/Hysteria2节点，涵盖美国 香港 - 日本 等多个地区的高速节点。最高测速是20.92MB/S，请注意免费流量为多人共享，具有速度不稳定，速率较低等特点。
 
 ```code
 
@@ -40,21 +40,21 @@
 # V2ray订阅链接：
 
 https://ndxy.fn0821.xyz/nodes/85b097a020137d05de401becd69b3d4f
-https://ndxy.fn0821.xyz/nodes/31a8c37487d11127aaec99cf452f5949
+https://ndxy.fn0821.xyz/nodes/43003b80c5e36668f05d19058bcfd9d6
 https://ndxy.fn0821.xyz/nodes/68049c7010b62830343aef9ed313e8bc
 https://ndxy.fn0821.xyz/nodes/5da399c11b0f590500f7071735a30b98
 https://ndxy.fn0821.xyz/nodes/3d7e5d9a19c41e2a53505a479dfdcf76
-https://ndxy.fn0821.xyz/nodes/ae233c3098e2e969642c6e151f68d354
+https://ndxy.fn0821.xyz/nodes/15fd50878ae69bf6ac9191194ee2bb68
 https://ndxy.fn0821.xyz/nodes/03934f5b9f06adc0d206ed7953df8a05
 https://ndxy.fn0821.xyz/nodes/1fcdf676c5c0bb401ffb532a775842b2
 https://ndxy.fn0821.xyz/nodes/df86a7d3350f2502fec96e8af26198e8
 https://ndxy.fn0821.xyz/nodes/44ee79e0714a6818cfab18e53c5036a4
 https://ndxy.fn0821.xyz/nodes/bdbed841f0a72541852850e4064cd5c2
-https://ndxy.fn0821.xyz/nodes/7ee5e7bdf3e270aa09c3baddb72eee27
+https://ndxy.fn0821.xyz/nodes/ceb6e8afae6630a346544dfae529da25
 https://ndxy.fn0821.xyz/nodes/230edb125e883e1f3abd390c9d742472
 https://ndxy.fn0821.xyz/nodes/5ed2312a11317b38ae4df71241bcb7d6
 https://ndxy.fn0821.xyz/nodes/eab8528b188ae4bed2d795fac67e582a
-https://ndxy.fn0821.xyz/nodes/0b3509fff8597fd5b4763375baaf248b
+https://ndxy.fn0821.xyz/nodes/eab0e811a5f1ad13c8497a8870861f7b
 https://ndxy.fn0821.xyz/nodes/c98fbf6db80708529203ebc86bd67eaa
 
 ```
@@ -83,4 +83,4 @@ https://ndxy.fn0821.xyz/nodes/c98fbf6db80708529203ebc86bd67eaa
 
 **如果发现节点全部显示 timeout 或 not stable，即表明订阅地址失效了**。
 
-以上介绍了2026 年 11 月 11 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
+以上介绍了2026 年 11 月 12 日的V2ray/Trojan/SS/Vless/Hysteria2机场推荐、订阅链接以及订阅节选，以上内容每日更新，保证准确的时效性，为您的网络连接提供可靠支持，感谢阅读。
