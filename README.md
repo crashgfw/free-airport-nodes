@@ -43,9 +43,9 @@ https://ndxy.fn0821.xyz/nodes/22d21f65f2fa491e3de1a2ede509ff09
 https://ndxy.fn0821.xyz/nodes/46534c9fcd65ea7f2701e50b4fa1f45c
 https://ndxy.fn0821.xyz/nodes/d173c7d8f06a973b063bda45146f139e
 https://ndxy.fn0821.xyz/nodes/a2572b90e8300cb724b841f5fb20afba
-https://ndxy.fn0821.xyz/nodes/e5dfb5339c65df9027cec6501ead93d9
+https://ndxy.fn0821.xyz/nodes/4333d7dcdeec4847c7c6ad5dc81d1953
 https://ndxy.fn0821.xyz/nodes/794f9d84008a0dfe961cd650013d3331
-https://ndxy.fn0821.xyz/nodes/b0cf5bc561947fecbb5b77d50085b6de
+https://ndxy.fn0821.xyz/nodes/7400eeeb9bc692f8d6068eb50297fce3
 https://ndxy.fn0821.xyz/nodes/8b6a31b71da4c1affb3471b9cec26905
 https://ndxy.fn0821.xyz/nodes/2396ec8a98be29bdb0893e5b58b2d761
 https://ndxy.fn0821.xyz/nodes/c2e1017d4dc42aca72c78e65bc9babeb
@@ -53,7 +53,7 @@ https://ndxy.fn0821.xyz/nodes/447339787f9858860ad18dadcadafa83
 https://ndxy.fn0821.xyz/nodes/9d413a7ab4ce51bd500feab6e10dc923
 https://ndxy.fn0821.xyz/nodes/0e9261394dd34bac775c24a6ae11b5a4
 https://ndxy.fn0821.xyz/nodes/7369a1bf584cfa657206f26157a4c14b
-https://ndxy.fn0821.xyz/nodes/f72b9c0b25de73a96ff36a6a600cbf73
+https://ndxy.fn0821.xyz/nodes/a6e35eac5923ab15eb94031098b18dc8
 https://ndxy.fn0821.xyz/nodes/0b49c13796f17b5167fd4aac1fa4cee2
 https://ndxy.fn0821.xyz/nodes/e0d8b63dc2a6b08298b3ac0bf0174d8e
 
